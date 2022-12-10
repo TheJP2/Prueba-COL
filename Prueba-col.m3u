@@ -19,6 +19,10 @@ http://45.233.169.25:8000/play/a009
 http://45.233.169.25:8000/play/a00a
 #EXTINF:-1,CARACOL TV HD
 http://45.233.169.25:8000/play/a00b
+#EXTINF:-1,CARACOL TV HD (Op 2)
+http://45.7.135.243:8002/play/a055
+#EXTINF:-1,CARACOL HD 2
+http://45.177.53.7:8000/play/a03n/index.m3u8
 #EXTINF:-1,CNN Chile HD
 http://45.233.169.25:8000/play/a00c
 #EXTINF:-1,CNN Espanol
@@ -129,6 +133,8 @@ http://45.233.169.25:8000/play/a01l
 http://45.233.169.25:8000/play/a01m
 #EXTINF:-1,LA KALLE
 http://45.233.169.25:8000/play/a01n
+#EXTINF:-1,LA KALLE (Op 2)
+http://45.177.53.7:8000/play/a03p/index.m3u8
 #EXTINF:-1,LA MEGA
 http://45.233.169.25:8000/play/a01o
 #EXTINF:-1,Las Estrellas
@@ -161,6 +167,8 @@ http://45.233.169.25:8000/play/a021
 http://45.232.211.196:1080/play/a059
 #EXTINF:-1,RCN HD 2
 http://45.233.169.25:8000/play/a022
+#EXTINF:-1,RCN HD 2 (Op 2)
+http://45.177.53.7:8000/play/a03z/index.m3u8
 #EXTINF:-1,RCN LA RADIO
 http://45.233.169.25:8000/play/a023
 #EXTINF:-1,RCN RADIO UNO
@@ -193,6 +201,10 @@ http://45.233.169.25:8000/play/a02g
 http://45.233.169.25:8000/play/a02i
 #EXTINF:-1,TNT Series HD
 http://45.233.169.25:8000/play/a02h
+#EXTINF:-1,CANAL TRECE
+http://45.177.53.7:8000/play/a04d/index.m3u8
+#EXTINF:-1,CANAL TRECE +
+http://45.177.53.7:8000/play/a04e/index.m3u8
 #EXTINF:-1,TRO
 http://45.233.169.25:8000/play/a02j
 #EXTINF:-1,Tele Cafe
@@ -219,13 +231,18 @@ http://45.232.211.196:1080/play/a043
 http://45.233.169.25:8000/play/a02r
 #EXTINF:-1,Win Sports+ HD (Op 2)
 http://45.232.211.196:1080/play/a05r
+#EXTINF:-1,Win Sports+ HD (Op 3)
+http://45.7.135.243:8002/play/a052
 #EXTINF:-1,Zoom
 http://45.233.169.25:8000/play/a02s
 
 #EXTINF:-1,TyC Sports HD
 http://131.196.194.2:8000/play/a0hf/index.m3u8
-#EXTINF:-1,Love Nature 4K
-http://195.189.62.148:8001/play/a07i
+#EXTINF:-1,TUDN
+http://45.5.117.138:8005/play/a00f/index.m3u8
+
+#EXTINF:-1,LOVE NATURE HD
+http://45.181.122.17:4000/play/a04f
 #EXTINF:-1,Museum 4K
 http://149.62.177.99:8004/play/a00y/index.m3u8
 #EXTINF:-1,Nasa TV UHD 4K
@@ -238,7 +255,8 @@ http://195.189.62.148:8001/play/a07b
 http://195.189.62.148:8001/play/a0b0
 #EXTINF:-1,HotBird 4K1
 http://149.62.177.99:8004/play/a00s/index.m3u8
-#EXTINF:-1,MTV LIVE HD (Best)
+
+#EXTINF:-1,MTV LIVE HD
 http://190.61.102.67:8000/play/a065
 #EXTINF:-1,MTV LIVE HD (Op 2)
 http://190.43.92.211:8000/play/a0ig/index.m3u8
@@ -246,12 +264,14 @@ http://190.43.92.211:8000/play/a0ig/index.m3u8
 http://179.0.98.34:8000/play/a03j/index.m3u8
 #EXTINF:-1,MTV 00s HD
 http://190.61.102.67:8000/play/a066
+#EXTINF:-1,MTV 00s HD (Op 2)
+http://179.0.98.34:8000/play/a035/index.m3u8
 #EXTINF:-1,MTV 80s
 http://190.61.102.67:8000/play/a048
 #EXTINF:-1,Telehit HD
 http://179.0.98.34:8000/play/a049/index.m3u8
-#EXTINF:-1,MTV 00s
-http://179.0.98.34:8000/play/a035/index.m3u8
+#EXTINF:-1,MI MUSICA HD HITS
+http://45.177.53.7:8000/play/a07z/index.m3u8
 
 #EXTINF:-1,4K-TV (SOLO TV 4K)
 http://130.193.165.50:4000/play/1634286479/index.m3u8
@@ -267,3 +287,6 @@ http://200.48.19.138:10021/play/a03n
 http://200.24.132.99:8000/play/a006
 #EXTINF:-1,Rai 4K (QATAR) (SOLO TV 4K)
 http://194.76.186.12:8000/play/a02j
+
+#EXTINF:-1,Telecinco HD
+http://185.56.180.254:4672/udp/239.1.2.27:1234
