@@ -234,11 +234,6 @@ http://45.7.135.243:8002/play/a052
 #EXTINF:-1,Zoom
 http://45.233.169.25:8000/play/a02s
 
-#EXTINF:-1,TyC Sports HD
-http://131.196.194.2:8000/play/a0hf/index.m3u8
-#EXTINF:-1,TUDN
-http://45.5.117.138:8005/play/a00f/index.m3u8
-
 #EXTINF:-1,LOVE NATURE HD
 http://45.181.122.17:4000/play/a04f
 #EXTINF:-1,Museum 4K
@@ -279,6 +274,3 @@ http://200.48.19.138:10021/play/a03n
 http://200.24.132.99:8000/play/a006
 #EXTINF:-1,Rai 4K (QATAR) (SOLO TV 4K)
 http://194.76.186.12:8000/play/a02j
-
-#EXTINF:-1,Telecinco HD
-http://185.56.180.254:4672/udp/239.1.2.27:1234
