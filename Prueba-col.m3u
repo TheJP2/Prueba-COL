@@ -259,6 +259,14 @@ http://190.61.102.67:8000/play/a048
 http://179.0.98.34:8000/play/a049/index.m3u8
 #EXTINF:-1,MI MUSICA HD HITS
 http://45.177.53.7:8000/play/a07z/index.m3u8
+#EXTINF:-1,RELAX MUSIC
+http://x01.live:8080/live/AndyR0711/BTuTG9wHwk/216512.m3u8
+#EXTINF:-1,MTV CLUB
+http://x01.live:8080/live/AndyR0711/BTuTG9wHwk/11277.m3u8
+#EXTINF:-1,MTV (INT)
+http://x01.live:8080/live/AndyR0711/BTuTG9wHwk/11275.m3u8
+#EXTINF:-1,MTV 90s
+http://x01.live:8080/live/AndyR0711/BTuTG9wHwk/11279.m3u8
 
 #EXTINF:-1,4K-TV (SOLO TV 4K)
 http://130.193.165.50:4000/play/1634286479/index.m3u8
