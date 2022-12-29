@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 group-title="Películas y series",A&E HD
 http://38.7.221.21:4000/play/aehd
 #EXTINF:-1 group-title="Películas y series",AMC HD
@@ -40,14 +38,14 @@ http://45.233.169.25:8000/play/a00g
 http://45.177.53.7:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="Nacionales",CANAL TRECE +
 http://45.177.53.7:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal Uno
-http://190.60.39.62:8000/play/a031
+#EXTINF:-1 group-title="Nacionales",Canal 1 HD
+http://45.176.193.20:7837/play/a09l
 #EXTINF:-1,Caracol Tv Sat
 http://45.233.169.25:8000/play/a02u
 #EXTINF:-1,Cartoon Network HD
 http://45.233.169.25:8000/play/a00i
-#EXTINF:-1,Cartoonito
-http://45.233.169.25:8000/play/a00j
+#EXTINF:-1 group-title="Infantiles",CARTOONITO
+http://45.176.193.20:7837/play/a02c
 #EXTINF:-1 group-title="Películas y series",Cinemax HD
 http://38.7.221.21:4000/play/cinemaxhd
 #EXTINF:-1 group-title="Películas y series",Cinecanal HD
@@ -80,10 +78,12 @@ http://45.233.169.25:8000/play/a00v
 http://38.7.221.21:4000/play/a05b
 #EXTINF:-1 group-title="Infantiles",Disney HD
 http://38.7.221.21:4000/play/disneyhd
-#EXTINF:-1,Disney Jr
-http://45.233.169.25:8000/play/a00z
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+http://45.176.193.20:7837/play/a081
 #EXTINF:-1,Disney Junior HD
 http://45.233.169.25:8000/play/a010
+#EXTINF:-1 group-title="Noticias",DW ESPAÑOL HD
+http://45.176.193.20:7837/play/a03z
 #EXTINF:-1 group-title="Entretenimiento",E! HD
 http://38.7.221.21:4000/play/a0es
 #EXTINF:-1 group-title="Entretenimiento",El Gourmet HD
@@ -110,6 +110,8 @@ http://45.233.169.25:8000/play/a018
 http://38.7.221.21:4000/play/foodnetworkhd
 #EXTINF:-1 group-title="Películas y series",FOX HD
 http://38.7.221.21:4000/play/a0ao
+#EXTINF:-1 group-title="Noticias",France 24 HD
+http://45.176.193.20:7837/play/a09x
 #EXTINF:-1 group-title="Películas y series",FX HD
 http://38.7.221.21:4000/play/a0aw
 #EXTINF:-1 group-title="Deportes",Fox Sports 1 HD
@@ -120,6 +122,8 @@ http://38.7.221.21:4000/play/a0at
 http://38.7.221.21:4000/play/foxsports3hd
 #EXTINF:-1 group-title="Películas y series",Golden HD
 http://38.7.221.21:4000/play/goldenhd
+#EXTINF:-1 group-title="Películas y series",Golden Plus HD
+http://45.176.193.20:7837/play/a02s
 #EXTINF:-1 group-title="Películas y series",HBO HD
 http://38.7.221.21:4000/play/a08o
 #EXTINF:-1 group-title="Películas y series",HBO 2 HD
@@ -145,23 +149,23 @@ http://38.7.221.21:4000/play/idhd
 #EXTINF:-1,LA FM RADIO
 http://45.233.169.25:8000/play/a01m
 #EXTINF:-1,LA KALLE
-http://45.233.169.25:8000/play/a01n
-#EXTINF:-1,LA KALLE (Op 2)
-http://45.177.53.7:8000/play/a03p/index.m3u8
+http://45.176.193.20:7837/play/a027
 #EXTINF:-1,LA MEGA
 http://45.233.169.25:8000/play/a01o
 #EXTINF:-1,Las Estrellas
 http://45.233.169.25:8000/play/a01p
 #EXTINF:-1,Lifetime
 http://45.233.169.25:8000/play/a01q
-#EXTINF:-1,MTV HD
-http://45.233.169.25:8000/play/a01r
+#EXTINF:-1 group-title="Cultura",Love Nature HD
+http://45.176.193.20:7837/play/a09w
+#EXTINF:-1 group-title="Entretenimiento",MTV HD
+http://45.176.193.20:7837/play/a0a0
 #EXTINF:-1 group-title="Cultura",Nat Geo HD
 http://38.7.221.21:4000/play/a05a
-#EXTINF:-1,Nick HD
-http://45.233.169.25:8000/play/a01t
-#EXTINF:-1,Nick Jr
-http://45.233.169.25:8000/play/a01u
+#EXTINF:-1 group-title="Infantiles",NICK HD
+http://45.176.193.20:7837/play/a02e
+#EXTINF:-1 group-title="Infantiles",NICK JR
+http://45.176.193.20:7837/play/a02f
 #EXTINF:-1 group-title="Infantiles",Nick HD
 http://38.7.221.21:4000/play/a06m
 #EXTINF:-1,ORIGEN CHANEL
@@ -171,7 +175,7 @@ http://38.7.221.21:4000/play/a05j
 #EXTINF:-1 group-title="Novelas",Pasiones HD
 http://38.7.221.21:4000/play/pasioneshd
 #EXTINF:-1 group-title="Nacionales",RCN HD
-http://38.7.221.21:4000/play/a07f
+http://45.176.193.20:7837/play/a09g
 #EXTINF:-1 group-title="Nacionales",RCN HD 2
 http://190.60.39.62:8000/play/b01
 #EXTINF:-1 group-title="Nacionales",RCN HD 2 (Op 2)
@@ -216,11 +220,11 @@ http://38.7.221.21:4000/play/a073
 http://45.233.169.25:8000/play/a02k
 #EXTINF:-1,Teleislas
 http://45.233.169.25:8000/play/a02m
-#EXTINF:-1,Telemundo
-http://45.233.169.25:8000/play/a02n
+#EXTINF:-1 group-title="Novelas",Telemundo HD
+http://45.176.193.20:7837/play/a07o
 #EXTINF:-1,Telepacifico
 http://45.233.169.25:8000/play/a02t
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s3.png",Tooncast
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0s3.png",Tooncast
 http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1 group-title="Deportes",TUDN HD USA
 http://45.182.21.251:33334/play/a077/index.m3u8
@@ -241,8 +245,6 @@ http://45.224.23.211:8000/play/a056/index.m3u8
 #EXTINF:-1,Zoom
 http://45.233.169.25:8000/play/a02s
 
-#EXTINF:-1 group-title="4K",LOVE NATURE HD
-http://45.181.122.17:4000/play/a04f
 #EXTINF:-1 group-title="4K",Museum 4K
 http://149.62.177.99:8004/play/a00y/index.m3u8
 #EXTINF:-1 group-title="4K",Nasa TV UHD 4K
