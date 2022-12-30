@@ -284,18 +284,76 @@ http://200.48.19.138:10021/play/a03n
 #EXTINF:-1,TELEAMAZONAS HD (QATAR)
 http://200.24.132.99:8000/play/a006
 
+#EXTINF:-1 group-title="España",LA 1 HD
+http://212.9.92.182:49000/play/a00s
 #EXTINF:-1 group-title="España",CUATRO HD
 http://212.9.92.182:49000/play/a006
 #EXTINF:-1 group-title="España",TELECINCO HD
 http://212.9.92.182:49000/play/a00b
+#EXTINF:-1 group-title="España",ANTENA 3 HD
+http://188.26.202.196:8000/play/a0iy
+#EXTINF:-1 group-title="España",AXN HD
+http://188.26.202.196:8000/play/a0if
+#EXTINF:-1 group-title="España",AXN WHITE HD
+http://188.26.202.196:8000/play/a0jp
+#EXTINF:-1 group-title="España",CALLE 13 HD
+http://188.26.202.196:8000/play/a0j5
+#EXTINF:-1 group-title="España",COSMO HD
+http://188.26.202.196:8000/play/a0jo
+#EXTINF:-1 group-title="España",DreamWorks HD
+http://188.26.202.196:8000/play/a0is
+#EXTINF:-1,FOX HD
+http://188.26.202.196:8000/play/a0im
+#EXTINF:-1,GOL
+http://188.26.202.196:8000/play/a0k9
+#EXTINF:-1,HISTORIA
+http://188.26.202.196:8000/play/a0ke
+#EXTINF:-1,HOLLYWOODHD
+http://188.26.202.196:8000/play/a0ir
+#EXTINF:-1 group-title="España",M+ COMEDIA HD
+http://212.9.92.182:49000/play/a00q
+#EXTINF:-1 group-title="España",M+ #0 HD
+http://188.26.202.196:8000/play/a0jh
+#EXTINF:-1 group-title="España",M+ ACCION HD
+http://188.26.202.196:8000/play/a0io
+#EXTINF:-1 group-title="España",M+ CLÁSICOS HD
+http://188.26.202.196:8000/play/a0jq
+#EXTINF:-1 group-title="España",M+ DRAMA HD
+http://188.26.202.196:8000/play/a0iq
+#EXTINF:-1 group-title="España",M+ ESTRENOS 2 HD
+http://188.26.202.196:8000/play/a0jw
+#EXTINF:-1 group-title="España",M+ Fest
+http://188.26.202.196:8000/play/a0il
+#EXTINF:-1,M+ SERIES HD
+http://188.26.202.196:8000/play/a0jm
+#EXTINF:-1,M+ SERIES 2 HD
+http://188.26.202.196:8000/play/a0jc
+#EXTINF:-1,M+ ESTRENOS HD
+http://188.26.202.196:8000/play/a0k1
+#EXTINF:-1 group-title="España",M+ LaLiga HD
+http://188.26.202.196:8000/play/a0it
+#EXTINF:-1 group-title="España",M+ LaLiga 1 HD
+http://188.26.202.196:8000/play/a0id
+#EXTINF:-1 group-title="España",M+ LaLiga 2 HD
+http://188.26.202.196:8000/play/a0jt
+#EXTINF:-1 group-title="España",M+ LaLiga 3 HD
+http://188.26.202.196:8000/play/a0jv
+#EXTINF:-1 group-title="España",EUROSPORT1HD
+http://188.26.202.196:8000/play/a0j7
+#EXTINF:-1 group-title="España",EUROSPORT3HD
+http://188.26.202.196:8000/play/a0jl
 #EXTINF:-1 group-title="España",DAZN 1 HD
 http://212.9.92.182:49000/play/a00o
 #EXTINF:-1 group-title="España",DAZN 2 HD
 http://212.9.92.182:49000/play/a00r
+#EXTINF:-1 group-title="España",DAZN 3 HD
+http://188.26.202.196:8000/play/a0jz
+#EXTINF:-1 group-title="España",DAZN 4 HD
+http://188.26.202.196:8000/play/a0jy
+#EXTINF:-1 group-title="España",DAZN LaLiga
+http://188.26.202.196:8000/play/a0la
 #EXTINF:-1 group-title="España",DAZN F1 HD
 http://212.9.92.182:49000/play/a01s
-#EXTINF:-1 group-title="España",LA 1 HD
-http://212.9.92.182:49000/play/a00s
 #EXTINF:-1 group-title="España",LA SEXTA HD
 http://212.9.92.182:49000/play/a008
 #EXTINF:-1 group-title="España",Liga SmartBank
@@ -310,23 +368,53 @@ http://212.9.92.182:49000/play/a025
 http://212.9.92.182:49000/play/a00i
 #EXTINF:-1 group-title="España",M+ La Resistencia
 http://212.9.92.182:49000/play/a015
-#EXTINF:-1 group-title="España",M+ COMEDIA HD
-http://212.9.92.182:49000/play/a00q
-#EXTINF:-1 group-title="España",M+ DEPORTES 2 HD
-http://212.9.92.182:49000/play/a01t
 #EXTINF:-1 group-title="España",M+ DEPORTES HD
 http://212.9.92.182:49000/play/a01q
+#EXTINF:-1,M+ DEPORTES 1 HD
+http://188.26.202.196:8000/play/a0iw
+#EXTINF:-1 group-title="España",M+ DEPORTES 2 HD
+http://212.9.92.182:49000/play/a01t
+#EXTINF:-1,M+ DEPORTES 3
+http://188.26.202.196:8000/play/a0kn
+#EXTINF:-1,M+ DEPORTES 4
+http://188.26.202.196:8000/play/a0l5
 #EXTINF:-1 group-title="España",M+ ELLAS #V HD
 http://212.9.92.182:49000/play/a02a
 #EXTINF:-1 group-title="España",M+ L. CAMPEONES
 http://212.9.92.182:49000/play/a00h
+#EXTINF:-1,M+ L. CAMPEONES 1
+http://188.26.202.196:8000/play/a0jx
 #EXTINF:-1 group-title="España",M+ L. CAMPEONES 2
 http://212.9.92.182:49000/play/a00z
 #EXTINF:-1 group-title="España",M+ L. CAMPEONES 3
 http://212.9.92.182:49000/play/a011
+#EXTINF:-1,M+ L. CAMPEONES 2
+http://188.26.202.196:8000/play/a0k0
 #EXTINF:-1 group-title="España",M+ L. CAMPEONES 6
 http://212.9.92.182:49000/play/a018
+#EXTINF:-1 group-title="España",M+ LaLiga HD
+http://188.26.202.196:8000/play/a0it
+#EXTINF:-1 group-title="España",M+ LaLiga 1 HD
+http://188.26.202.196:8000/play/a0id
+#EXTINF:-1 group-title="España",M+ LaLiga 2 HD
+http://188.26.202.196:8000/play/a0jt
+#EXTINF:-1 group-title="España",M+ LaLiga 3 HD
+http://188.26.202.196:8000/play/a0jv
 #EXTINF:-1 group-title="España",M+ LaLigaTV HD
 http://212.9.92.182:49000/play/a01z
 #EXTINF:-1 group-title="España",NAT GEO WILD HD
 http://212.9.92.182:49000/play/a01k
+
+
+#EXTINF:-1,MEZZO LIVE HD
+http://188.26.202.196:8000/play/a0j4
+#EXTINF:-1,NAT GEO HD
+http://188.26.202.196:8000/play/a0j9
+#EXTINF:-1,NICKELODEONHD
+http://188.26.202.196:8000/play/a0j3
+#EXTINF:-1,SUNDANCE TV
+http://188.26.202.196:8000/play/a0kw
+#EXTINF:-1,SYFY HD
+http://188.26.202.196:8000/play/a0j6
+#EXTINF:-1,TCM HD
+http://188.26.202.196:8000/play/a0jd
