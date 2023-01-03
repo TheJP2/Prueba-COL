@@ -12,12 +12,8 @@ http://38.7.221.21:4000/play/animalplanethd
 http://45.177.53.7:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="Infantiles",Baby TV
 http://45.233.169.25:8000/play/a007
-#EXTINF:-1,CANAL 13
-http://45.233.169.25:8000/play/a009
-#EXTINF:-1,CANAL CONGRESO
-http://45.233.169.25:8000/play/a00a
 #EXTINF:-1 group-title="Nacionales",CARACOL TV HD
-http://190.60.39.62:8000/play/b02
+  http://190.60.39.62:8000/play/b02
 #EXTINF:-1,CARACOL TV HD (Op 2)
 http://45.7.135.243:8002/play/a055
 #EXTINF:-1 group-title="Nacionales",CARACOL TV HD 2
@@ -89,7 +85,7 @@ http://38.7.221.21:4000/play/a0es
 #EXTINF:-1 group-title="Entretenimiento",El Gourmet HD
 http://38.7.221.21:4000/play/a074
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD
-http://38.7.221.21:4000/play/a0ax
+http://38.7.221.21:4000/play/a06j
 #EXTINF:-1 group-title="Deportes",ESPN 3 HD
 http://38.7.221.21:4000/play/espn3hd
 #EXTINF:-1,ESPN 4 HD
@@ -97,7 +93,7 @@ http://45.233.169.25:8000/play/a015
 #EXTINF:-1 group-title="Deportes",ESPN EXTRA HD
 http://38.7.221.21:4000/play/a05e
 #EXTINF:-1 group-title="Deportes",ESPN HD
-http://38.7.221.21:4000/play/a06j
+http://38.7.221.21:4000/play/a0ax
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uv.png",ESPN MX HD
 http://190.115.15.177:58003/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0t6.png",ESPN 2 MX HD
