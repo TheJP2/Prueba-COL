@@ -18,6 +18,8 @@ http://179.1.132.203:8000/play/a07h/index.m3u8
 http://179.1.132.203:8000/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE
 http://179.1.132.203:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE (Op 2)
+http://190.61.42.218:9000/play/a05p
 #EXTINF:-1 tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet
 http://179.1.132.203:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="1317dtv.cl" group-title="INFANTILES",Baby TV SD
