@@ -287,9 +287,8 @@ http://179.1.132.203:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTES",Win Sports SD
 http://190.60.47.92:9000/play/a0ct
-#EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTES",Win Sports
+#EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://i.imgur.com/adgKB9J.png" group-title="DEPORTES",Win Sports
 http://45.171.180.66:8000/play/a039
-
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol SD
 http://186.148.184.65:8000/play/a09y
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol
