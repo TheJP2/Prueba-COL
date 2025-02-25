@@ -20,6 +20,8 @@ http://179.1.132.203:8000/play/a09s/index.m3u8
 http://179.1.132.203:8000/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE (Op 2)
 http://190.61.42.218:9000/play/a05p
+#EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE (Op 3)
+http://190.60.49.244:4000/play/a0dz
 #EXTINF:-1 tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet
 http://179.1.132.203:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="1317dtv.cl" group-title="INFANTILES",Baby TV SD
@@ -38,7 +40,7 @@ http://179.1.132.203:8000/play/a06r/index.m3u8
 http://179.1.132.203:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol SD
 http://186.148.184.65:8000/play/a09r/index.m3u8
-#EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol CO
+#EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol
 http://179.1.132.203:8000/play/a059/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",Caracol HD2
 http://186.148.184.65:8000/play/a03b
@@ -184,6 +186,12 @@ http://179.1.132.203:8000/play/a04v/index.m3u8
 http://179.1.132.203:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="mega.cl" group-title="NACIONALES",MEGA
 http://179.1.132.203:8000/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Meridiano_Televisi%C3%B3n.png/1024px-Meridiano_Televisi%C3%B3n.png" group-title="DEPORTES",Meridiano TV VE SD
+http://38.41.8.1:8000/play/a03w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Meridiano_Televisi%C3%B3n.png/1024px-Meridiano_Televisi%C3%B3n.png" group-title="DEPORTES",Meridiano TV VE SD
+http://138.117.110.151:8000/play/a05g
+
 #EXTINF:-1 tvg-id="mtv.cl" group-title="ENTRETENIMIENTO",MTV
 http://179.1.132.203:8000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="262dtv.cl" group-title="MUSICA",MTV 00s
