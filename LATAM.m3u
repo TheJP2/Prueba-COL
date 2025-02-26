@@ -24,6 +24,8 @@ http://190.61.42.218:9000/play/a05p
 http://190.60.49.244:4000/play/a0dz
 #EXTINF:-1 tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet
 http://179.1.132.203:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="azteca7.mx" group-title="NACIONALES", Azteca 7
+http://190.92.10.66:4000/play/a007
 #EXTINF:-1 tvg-id="1317dtv.cl" group-title="INFANTILES",Baby TV SD
 http://179.1.132.203:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias SD
@@ -136,6 +138,8 @@ http://179.1.132.203:8000/play/a05m/index.m3u8
 http://179.1.132.203:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="3082dtv.cl" group-title="DEPORTES",ESPN 7
 http://179.1.132.203:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="DEPORTES",ESPN Deportes USA
+http://190.92.10.66:4000/play/a003
 #EXTINF:-1 tvg-id="232dtv.cl" group-title="ENTRETENIMIENTO",El Gourmet SD
 http://179.1.132.203:8000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="232dtv.cl" group-title="ENTRETENIMIENTO",El Gourmet
@@ -262,6 +266,8 @@ http://179.1.132.203:8000/play/a06p/index.m3u8
 http://179.1.132.203:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="213dtv.cl" group-title="ENTRETENIMIENTO",TNT Series
 http://179.1.132.203:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN USA
+http://190.92.10.66:4000/play/a002
 #EXTINF:-1 group-title="NACIONALES",TV AGRO SD
 http://179.1.132.203:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="NACIONALES",TVN
