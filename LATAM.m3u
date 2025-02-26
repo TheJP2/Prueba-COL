@@ -282,15 +282,15 @@ http://179.1.132.203:8000/play/a09a/index.m3u8
 http://179.1.132.203:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="218dtv.co" group-title="ENTRETENIMIENTO",Universal
 http://179.1.132.203:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-id="1572dtv.cl" group-title="ENTRETENIMIENTO",Universal Cinema Este
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MH4Y9vQ.png" tvg-id="1572dtv.cl" group-title="ENTRETENIMIENTO",Universal Cinema Este
 http://177.53.155.236:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-id="1573dtv.cl" group-title="ENTRETENIMIENTO",Universal Comedy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/46753pC.png" tvg-id="1573dtv.cl" group-title="ENTRETENIMIENTO",Universal Comedy
 http://177.53.155.236:8000/play/a094/index.m3u8
-#EXTINF:-1 tvg-id="1574dtv.cl" group-title="ENTRETENIMIENTO",Universal Crime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgzTQo4.png" tvg-id="1574dtv.cl" group-title="ENTRETENIMIENTO",Universal Crime
 http://177.53.155.236:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-id="571dtv.cl" group-title="ENTRETENIMIENTO",Universal Premiere
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XLPqeQN.png" tvg-id="571dtv.cl" group-title="ENTRETENIMIENTO",Universal Premiere
 http://177.53.155.236:8000/play/a090/index.m3u8
-#EXTINF:-1 tvg-id="576dtv.cl" group-title="ENTRETENIMIENTO",Universal Premiere O
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XLPqeQN.png" tvg-id="576dtv.cl" group-title="ENTRETENIMIENTO",Universal Premiere O
 http://177.53.155.236:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4FMPCq.png" group-title="ENTRETENIMIENTO",Universal Reality
 http://177.53.155.236:8000/play/a092/index.m3u8
