@@ -24,7 +24,7 @@ http://190.61.42.218:9000/play/a05p
 http://190.60.49.244:4000/play/a0dz
 #EXTINF:-1 tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet
 http://179.1.132.203:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/bHkTKFv" tvg-id="azteca7.mx" group-title="NACIONALES", Azteca 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbIRbpe.png" tvg-id="azteca7.mx" group-title="NACIONALES", Azteca 7
 http://190.92.10.66:4000/play/a007
 #EXTINF:-1 tvg-id="1317dtv.cl" group-title="INFANTILES",Baby TV SD
 http://179.1.132.203:8000/play/a07v/index.m3u8
