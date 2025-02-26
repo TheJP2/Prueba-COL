@@ -176,7 +176,7 @@ http://179.1.132.203:8000/play/a078/index.m3u8
 http://179.1.132.203:8000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="235dtv.cl" group-title="ENTRETENIMIENTO",IVC SD
 http://179.1.132.203:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B2tiUMj.png" group-title="MUSICA",LA SUPER
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlqSrzZ.png" group-title="MUSICA",LA SUPER
 http://179.1.132.203:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="865mvstr.cl" group-title="ENTRETENIMIENTO",LOVE NATURE
 http://181.78.14.26:8000/play/a07h
@@ -248,7 +248,7 @@ http://179.1.132.203:8000/play/a07j/index.m3u8
 http://179.1.132.203:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="508dtv.cl" group-title="ENTRETENIMIENTO",Studio Universal
 http://179.1.132.203:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="MUSICA",TELENOSTALGIA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W8Xsje7.png" group-title="MUSICA",TELENOSTALGIA SD
 http://179.1.132.203:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="740dtv.cl" group-title="DOCUMENTALES",TLC SD
 http://179.1.132.203:8000/play/a099/index.m3u8
