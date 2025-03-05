@@ -304,6 +304,8 @@ http://179.1.132.203:8000/play/a09a/index.m3u8
 http://45.68.35.218:4001/play/a00u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VeYiKDA.png" group-title="DEPORTES",TUDN US
 http://45.68.35.218:4001/play/a00x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VeYiKDA.png" group-title="DEPORTES",TUDN US (Op 2)
+http://190.83.2.178:8008/play/a0i3
 #EXTINF:-1 tvg-id="218dtv.co" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL
 http://179.1.132.203:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="218dtv.co" group-title="ENTRETENIMIENTO",Universal
