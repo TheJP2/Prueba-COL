@@ -340,5 +340,7 @@ http://181.198.67.62:8000/play/a03d
 http://179.1.132.203:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="1206dtv.cl" group-title="ENTRETENIMIENTO",Warner Channel
 http://179.1.132.203:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAFVxwS.png" group-title="DEPORTES",Ziggo Sport NL
+http://86.87.15.10:8008/play/a01h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2y0zoa.png" group-title="NACIONALES",ZOOM
 http://179.1.132.203:8000/play/a05q/index.m3u8
