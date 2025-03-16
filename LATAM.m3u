@@ -259,7 +259,7 @@ http://179.1.132.203:8000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJELsHc.png" group-title="MUSICA",RUMBA TV
 http://179.1.132.203:8000/play/a03s/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/mstDDHe.png" group-title="DEPORTES", SKY LaLiga MX
-http://190.14.10.19:16000/play/a09u
+http://200.115.96.66:4000/play/a029
 #EXTINF:-1 tvg-id="204dtv.ar" group-title="ENTRETENIMIENTO",STAR CHANNEL
 http://179.1.132.203:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAwCDIe.png" group-title="NACIONALES",SURAM SD
