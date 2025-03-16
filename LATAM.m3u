@@ -30,6 +30,8 @@ http://190.92.10.66:4000/play/a007
 http://45.68.35.218:4001/play/a02d
 #EXTINF:-1 tvg-id="1317dtv.cl" group-title="INFANTILES",Baby TV SD
 http://179.1.132.203:8000/play/a07v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zG7aaSC.png" group-title="DEPORTES",BeIN Sports Ñ
+http://181.78.106.127:9000/play/ca039
 #EXTINF:-1 tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias SD
 http://179.1.132.203:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias
@@ -228,6 +230,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee16331
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-name="MTV Yo!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/YO%21_MTV.svg/revision/latest?cb=20210629162715" group-title="Live Channels",MTV Yo!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PNglkcA.png" group-title="DEPORTES",NBC Universo US
+http://181.78.106.127:9000/play/ca088
 #EXTINF:-1 tvg-id="145dtv.co" group-title="NOTICIAS",NTN 24 Horas SD
 http://179.1.132.203:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="730dtv.cl" group-title="DOCUMENTALES",Nat Geo SD
@@ -254,6 +258,8 @@ http://179.1.132.203:8000/play/a049/index.m3u8
 http://179.1.132.203:8000/play/a09h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJELsHc.png" group-title="MUSICA",RUMBA TV
 http://179.1.132.203:8000/play/a03s/index.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/mstDDHe.png" group-title="DEPORTES", SKY LaLiga MX
+http://190.14.10.19:16000/play/a09u
 #EXTINF:-1 tvg-id="204dtv.ar" group-title="ENTRETENIMIENTO",STAR CHANNEL
 http://179.1.132.203:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAwCDIe.png" group-title="NACIONALES",SURAM SD
