@@ -188,15 +188,15 @@ http://179.51.136.23:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="-",Fox Sports SD
 http://179.51.136.23:8000/play/a07i
 #EXTINF:-1 tvg-id="1605dtv.ar" group-title="-",Fox Sports
-http://179.51.136.23:8000/play/a08a
+http://186.148.196.82:8001/play/a011
 #EXTINF:-1 tvg-id="606dtv.ar" group-title="-",Fox Sports 2 SD
 http://179.51.136.23:8000/play/a03v
 #EXTINF:-1 tvg-id="606dtv.ar" group-title="-",Fox Sports 2
-http://179.51.136.23:8000/play/a04h
+http://186.148.196.82:8001/play/a00d
 #EXTINF:-1 tvg-id="607dtv.ar" group-title="-",Fox Sports 3 SD
 http://179.51.136.23:8000/play/a061
 #EXTINF:-1 tvg-id="607dtv.ar" group-title="-",Fox Sports 3
-http://179.51.136.23:8000/play/a070
+http://186.148.196.82:8001/play/a00o
 #EXTINF:-1 tvg-id="france-24-espanol.ar" group-title="-",France 24
 http://179.51.136.23:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="198dtv.pe" group-title="-",GLOBAL
@@ -374,7 +374,7 @@ http://179.51.136.23:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premium CL SD
 http://179.51.136.23:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports AR
-http://179.51.136.23:8000/play/a071/index.m3u8
+http://186.148.196.82:8001/play/a00p
 #EXTINF:-1 group-title="-",TV Ciudad
 http://179.51.136.23:8000/play/a08p/index.m3u8
 #EXTINF:-1 group-title="-",TV Ciudad HD
@@ -386,7 +386,7 @@ http://179.51.136.23:8000/play/a01x/index.m3u8
 #EXTINF:-1 group-title="-",TV Publica SD
 http://179.51.136.23:8000/play/a03j
 #EXTINF:-1 group-title="-",TV Publica
-http://179.51.136.23:8000/play/a04b
+http://186.148.196.82:8001/play/a007
 #EXTINF:-1 group-title="-",TV Senado
 http://179.51.136.23:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="-",TV+ HD
@@ -420,7 +420,7 @@ http://179.51.136.23:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="-",TyC Sports SD
 http://179.51.136.23:8000/play/a060
 #EXTINF:-1 group-title="-",TyC Sports
-http://179.51.136.23:8000/play/a06z
+http://186.148.196.82:8001/play/a00n
 #EXTINF:-1 group-title="-",UCL
 http://179.51.136.23:8000/play/a08y/index.m3u8
 #EXTINF:-1 group-title="-",USA
