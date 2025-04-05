@@ -243,6 +243,8 @@ http://181.78.106.127:9000/play/ca088
 http://179.1.132.203:8000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="730dtv.cl" group-title="DOCUMENTALES",Nat Geo SD
 http://179.1.132.203:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",NBC Universo US
+http://181.78.106.127:9000/play/ca088
 #EXTINF:-1 tvg-id="308dtv.cl" group-title="INFANTILES",Nick
 http://179.1.132.203:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="308dtv.cl" group-title="INFANTILES",Nick
