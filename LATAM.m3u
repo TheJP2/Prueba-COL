@@ -282,7 +282,9 @@ http://179.1.132.203:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" group-title="ENTRETENIMIENTO",Sony Movies SD
 http://179.1.132.203:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYw2OdV.png" group-title="DEPORTES",Sony TEN 3 IND
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L34x2Tm.png" group-title="DEPORTES",Sony Sports TEN 2
+http://103.57.224.144:7000/play/a05f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYw2OdV.png" group-title="DEPORTES",Sony Sports TEN 3
 http://103.57.224.144:7000/play/a03s
 
 #EXTINF:-1 tvg-id="518dtv.cl" group-title="ENTRETENIMIENTO",Space SD
