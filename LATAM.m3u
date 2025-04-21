@@ -69,23 +69,23 @@ http://179.1.132.203:8000/play/a09w/index.m3u8
 #EXTINF:-1 tvg-id="215dtv.cl" group-title="ENTRETENIMIENTO",Comedy Central
 http://179.1.132.203:8000/play/a07a/index.m3u8
 
-#EXTINF:-1 tvg-id="BestofDanceTV.ee" group-title="MUSICA",Best of Dance TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGmSyxG.png" tvg-id="BestofDanceTV.ee" group-title="MUSICA",Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" group-title="MUSICA",DanceTV Algorhythm (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVAlgorhythm.ee" group-title="MUSICA",DanceTV Algorhythm
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-id="DanceTVChillAF.ee" group-title="MUSICA",DanceTV Chill AF (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVChillAF.ee" group-title="MUSICA",DanceTV Chill AF
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
-#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" group-title="MUSICA",DanceTV Deep House District (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVDeepHouseDistrict.ee" group-title="MUSICA",DanceTV Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee" group-title="MUSICA",DanceTV EDM Mainstage (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVEDMMainstage.ee" group-title="MUSICA",DanceTV EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee" group-title="MUSICA",DanceTV House Floor (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVHouseFloor.ee" group-title="MUSICA",DanceTV House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
-#EXTINF:-1 tvg-id="DanceTVMelodicTech.ee" group-title="MUSICA",DanceTV Melodic Tech (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVMelodicTech.ee" group-title="MUSICA",DanceTV Melodic Tech
 https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
-#EXTINF:-1 tvg-id="DanceTVMinimalTech.ee" group-title="MUSICA",DanceTV Minimal Tech (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVMinimalTech.ee" group-title="MUSICA",DanceTV Minimal Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee" group-title="MUSICA",DanceTV Techno Warehouse (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVTechnoWarehouse.ee" group-title="MUSICA",DanceTV Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CgV9P7x.png" group-title="DEPORTES",DAZN 1 PT
