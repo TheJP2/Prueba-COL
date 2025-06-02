@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1,History [GEOBLOCKED MX]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c60825bef7f79a30696e835532e2c1e5:9917be8378ddcb8ff4aa26c554da639e
+https://dish.akamaized.net/Content/DASH/Live/channel(history)/variant.mpd
+
+#EXTINF:-1,History 2 [GEOBLOCKED MX]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210
+https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
