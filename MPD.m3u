@@ -20,7 +20,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_key=5abcf43f19d39b08596ef593c466df7a:8f3fc1c6f4c20c6e6e98e42c2ae0e42c
 https://dish.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
 
-#EXTINF:-1,ESPN
+#EXTINF:-1,ESPN 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
