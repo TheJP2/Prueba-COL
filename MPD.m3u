@@ -13,9 +13,23 @@ https://dish.akamaized.net/Content/DASH/Live/channel(history)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_key=35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210
 https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
 
-#EXTINF:-1,Las Estrellas
+#EXTINF:-1,ESPN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
-https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=5abcf43f19d39b08596ef593c466df7a:8f3fc1c6f4c20c6e6e98e42c2ae0e42c
+https://dish.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
+
+#EXTINF:-1,ESPN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae99daa35220336fe9460b9060fa65a9:ac284e8e24296f30496d1f39a7138205
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/variant.mpd
+
+#EXTINF:-1,MTV 80s
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8a544b4853026c6a1b61093986da8d6:7973a247a732ec06362f2a32033f6432
+https://dish.akamaized.net/Content/DASH/Live/channel(mtv80sd)/variant.mpd
