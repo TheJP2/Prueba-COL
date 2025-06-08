@@ -18,5 +18,4 @@ https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=295e29d732648cbb6fa30b2846ce40d0:0ab4c85d9fb2bdd8255113f5559b11ac
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://dish.akamaized.net/Content/DASH/Live/channel(4f73ec8e-3b3f-51db-2a8d-ac9ae0ff0fa4)/variant.mpd
