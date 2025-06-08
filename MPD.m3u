@@ -13,7 +13,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(history)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_key=35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210
 https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
 
-EXTINF:-1,Caliente
+#EXTINF:-1,Caliente
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
