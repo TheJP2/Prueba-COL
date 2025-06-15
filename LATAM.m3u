@@ -358,6 +358,10 @@ http://45.224.96.65:8010/play/a005
 
 #EXTINF:-1 tvg-id="227dtv.cl" group-title="NOVELAS",Telenovelas SD
 http://179.1.132.203:8000/play/a09g/index.m3u8
+
+#EXTINF:-1 group-title="NACIONALES",Teletica 7 CR
+http://45.163.139.42:8000/play/a02k
+
 #EXTINF:-1 tvg-id="tooncast.ar" group-title="INFANTILES",Tooncast SD
 http://179.1.132.203:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VeYiKDA.png" group-title="DEPORTES",TUDN MX
