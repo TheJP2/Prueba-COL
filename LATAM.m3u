@@ -351,6 +351,11 @@ http://179.1.132.203:8000/play/a03q/index.m3u8
 http://179.1.132.203:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="180dtv.ec" group-title="NACIONALES",Teleamazonas SD
 http://179.1.132.203:8000/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-id="180dtv.ec" group-title="NACIONALES",Teleamazonas
+http://45.224.96.65:8010/play/a005
+
+
 #EXTINF:-1 tvg-id="227dtv.cl" group-title="NOVELAS",Telenovelas SD
 http://179.1.132.203:8000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.ar" group-title="INFANTILES",Tooncast SD
