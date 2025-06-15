@@ -325,6 +325,10 @@ http://179.1.132.203:8000/play/a07j/index.m3u8
 http://179.1.132.203:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="508dtv.cl" group-title="ENTRETENIMIENTO",Studio Universal
 http://179.1.132.203:8000/play/a091/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",TD+ HD CR
+http://45.190.187.183:8080/play/a1fs
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8Xsje7.png" group-title="MUSICA",TELENOSTALGIA SD
 http://179.1.132.203:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="740dtv.cl" group-title="DOCUMENTALES",TLC SD
