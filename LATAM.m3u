@@ -43,6 +43,8 @@ http://179.1.132.203:8000/play/a082/index.m3u8
 
 #EXTINF:-1 group-title="NACIONALES",Canal 4 ESA
 http://190.60.40.37:8001/play/a03r
+#EXTINF:-1 group-title="NACIONALES",Canal 4 ESA (Op 2)
+http://38.45.44.34:8000/play/a00g
 #EXTINF:-1 group-title="NACIONALES",Canal 4 ESA SD
 http://190.61.117.35:8000/play/a012
 
