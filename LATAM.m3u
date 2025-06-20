@@ -376,6 +376,9 @@ http://45.224.96.65:8010/play/a005
 #EXTINF:-1 tvg-id="227dtv.cl" group-title="NOVELAS",Telenovelas SD
 http://179.1.132.203:8000/play/a09g/index.m3u8
 
+#EXTINF:-1 group-title="NACIONALES",Telecadena 7/4 HND
+http://190.61.116.155:7000/play/a08m
+
 #EXTINF:-1 group-title="NACIONALES",Teletica 7 CR
 http://45.163.139.42:8000/play/a02k
 
