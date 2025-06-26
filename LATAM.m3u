@@ -255,6 +255,9 @@ http://179.1.132.203:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="mega.cl" group-title="NACIONALES",MEGA
 http://179.1.132.203:8000/play/a06f/index.m3u8
 
+#EXTINF:-1 group-title="NACIONALES",MegaTV HND
+http://200.115.98.26:9000/play/a002
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xO8LjHI.png" group-title="DEPORTES",Meridiano TV VE SD
 http://38.41.8.1:8000/play/a03w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xO8LjHI.png" group-title="DEPORTES",Meridiano TV VE SD
