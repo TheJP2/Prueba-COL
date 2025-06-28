@@ -50,10 +50,14 @@ http://190.61.117.35:8000/play/a012
 
 #EXTINF:-1 tvg-id="152dtv.cl" group-title="NACIONALES",Canal 13 CL
 http://179.1.132.203:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Canal 7 RPC
+#EXTINF:-1 group-title="NACIONALES",Canal 7 RPC
 http://190.83.2.172:8080/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="24horas.cl" group-title="NOTICIAS",Canal 24 Horas
 http://179.1.132.203:8000/play/a08y/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",Canal+ Sport FR
+http://45.90.106.7:8779/play/UdQSm942P@Zv6M
+
 #EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol SD
 http://191.97.9.94:8000/play/a05m
 #EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol
