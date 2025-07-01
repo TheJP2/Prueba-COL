@@ -86,6 +86,8 @@ http://190.217.66.92:8000/play/a0cw/index.m3u8
 http://181.119.86.1:8000/play/a0bt
 #EXTINF:-1 tvg-id="1509dtv.cl" group-title="ENTRETENIMIENTO",Cinemax SD
 http://190.217.66.92:8000/play/a0fb/index.m3u8
+#EXTINF:-1 group-title="MUSICA",Claro Musica Lado B (Sin Limites)
+http://190.60.40.37:8001/play/a0dj
 #EXTINF:-1 tvg-id="133dtv.co" group-title="NACIONALES",City TV SD
 http://190.217.66.92:8000/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="215dtv.cl" group-title="ENTRETENIMIENTO",Comedy Central
@@ -222,6 +224,38 @@ http://45.169.163.106:8000/play/a019
 http://45.4.169.50:8000/play/a027
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Golden Premier 2
 http://80.80.91.195:8000/play/a02v
+
+#EXTINF:-1 tvg-id="1481dtv.cl" group-title="ENTRETENIMIENTO",HBO CL SD
+http://45.169.163.106:8000/play/a01c
+#EXTINF:-1 tvg-id="hbo.py" group-title="ENTRETENIMIENTO",HBO PY SD
+http://190.60.40.37:8001/play/a029
+#EXTINF:-1 tvg-id="1524dtv.co" group-title="ENTRETENIMIENTO",HBO
+http://80.80.91.195:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="hbo.py" group-title="ENTRETENIMIENTO",HBO PY
+http://181.78.6.2:9080/play/a01q
+#EXTINF:-1 tvg-id="525dtv.cl" group-title="ENTRETENIMIENTO",HBO 2 SD
+http://181.78.78.66:8000/play/a0cx
+#EXTINF:-1 tvg-id="525dtv.cl" group-title="ENTRETENIMIENTO",HBO 2
+http://80.80.91.195:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="526dtv.cl" group-title="ENTRETENIMIENTO",HBO Plus SD
+http://181.78.78.66:8000/play/a0cw
+#EXTINF:-1 tvg-id="526dtv.cl" group-title="ENTRETENIMIENTO",HBO Plus
+http://80.80.91.195:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="1534dtv.cl" group-title="ENTRETENIMIENTO",HBO Family SD
+http://181.78.78.66:8000/play/a0ce
+#EXTINF:-1 tvg-id="1534dtv.cl" group-title="ENTRETENIMIENTO",HBO Family
+http://80.80.91.195:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="528dtv.cl" group-title="ENTRETENIMIENTO",HBO Signature SD
+http://190.60.40.37:8001/play/a033
+#EXTINF:-1 tvg-id="542dtv.cl" group-title="ENTRETENIMIENTO",HBO Xtreme SD
+http://45.169.163.106:8000/play/a02k
+#EXTINF:-1 tvg-id="542dtv.cl" group-title="ENTRETENIMIENTO",HBO Xtreme
+http://80.80.91.195:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="541dtv.cl" group-title="ENTRETENIMIENTO",HBO Pop
+http://45.169.163.106:8000/play/a01c
+#EXTINF:-1 tvg-id="541dtv.cl" group-title="ENTRETENIMIENTO",HBO Mundi SD
+http://181.78.6.2:9080/play/a06n
+
 #EXTINF:-1 tvg-id="272dtv.cl" group-title="MUSICA",HTV SD
 http://45.171.180.66:8000/play/a04s
 #EXTINF:-1 tvg-id="1742dtv.cl" group-title="DOCUMENTALES",History Channel
@@ -376,6 +410,9 @@ http://45.163.139.42:8000/play/a02k
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Higm2wY.png" group-title="DEPORTES",TV5 MONDE Europe
 http://84.22.55.2:8010/play/s281
+
+#EXTINF:-1 tvg-id="629dtv.cl" group-title="DEPORTES",TyC Sports SD
+http://190.60.40.37:8001/play/a0cs
 
 #EXTINF:-1 tvg-id="218dtv.co" group-title="ENTRETENIMIENTO",Universal Channel
 http://45.171.180.66:8000/play/a02u
