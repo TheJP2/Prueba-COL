@@ -118,19 +118,15 @@ http://181.119.86.1:8000/play/a0ca
 http://45.4.169.50:8000/play/a08d
 
 #EXTINF:-1 group-title="DEPORTES",Deportes TVC HND
-http://190.83.2.178:8009/play/a0g9
+http://80.80.91.195:8000/play/a0dt
 #EXTINF:-1 group-title="DEPORTES",Deportes TVC HND (Op 2)
 http://190.61.116.155:7000/play/a09t
 
 #EXTINF:-1 tvg-id="610dtv.ar" group-title="DEPORTES",Directv Sports AR
 http://186.148.196.82:8001/play/a035
 #EXTINF:-1 tvg-id="610dtv.pe" group-title="DEPORTES",Directv Sports PE
-http://177.53.155.236:8000/play/a0co
-#EXTINF:-1 tvg-id="610dtv.pe" group-title="DEPORTES",Directv Sports (Op 2)
 http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 tvg-id="611dtv.pe" group-title="DEPORTES",Directv Sports 2
-http://177.53.155.236:8000/play/a0jb
-#EXTINF:-1 tvg-id="611dtv.pe" group-title="DEPORTES",Directv Sports 2 (Op 2)
 http://179.63.6.17:9000/play/a08c
 
 #EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel SD
@@ -195,8 +191,6 @@ http://181.119.86.1:8000/play/a0bu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="DEPORTES",ESPN Deportes US
 http://190.92.10.66:4000/play/a003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="DEPORTES",ESPN Deportes US (Op 2)
-http://45.68.35.218:4001/play/a015
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="DEPORTES",ESPN Deportes US (Op 3)
 http://200.115.98.26:9000/play/a044
 #EXTINF:-1 tvg-id="232dtv.cl" group-title="ENTRETENIMIENTO",El Gourmet
 http://181.119.86.1:8000/play/a06f
@@ -213,7 +207,7 @@ http://45.169.163.106:8000/play/a017
 http://138.59.227.28:8000/play/a0cd
 
 #EXTINF:-1 tvg-id="658dtv.ec" group-title="DEPORTES",Gol TV SD
-http://181.198.67.62:8000/play/a0c7
+http://190.60.40.37:8001/play/a0cr
 #EXTINF:-1 tvg-id="503dtv.cl" group-title="ENTRETENIMIENTO",Golden SD
 http://45.4.169.50:8000/play/a07x
 #EXTINF:-1 tvg-id="503dtv.cl" group-title="ENTRETENIMIENTO",Golden
@@ -226,6 +220,8 @@ http://45.169.163.106:8000/play/a018
 http://45.169.163.106:8000/play/a019
 #EXTINF:-1 tvg-id="550" group-title="ENTRETENIMIENTO",Golden Premier
 http://45.4.169.50:8000/play/a027
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Golden Premier 2
+http://80.80.91.195:8000/play/a02v
 #EXTINF:-1 tvg-id="272dtv.cl" group-title="MUSICA",HTV SD
 http://45.171.180.66:8000/play/a04s
 #EXTINF:-1 tvg-id="1742dtv.cl" group-title="DOCUMENTALES",History Channel
@@ -258,8 +254,6 @@ http://45.4.169.50:8000/play/a02e
 #EXTINF:-1 group-title="NACIONALES",MegaTV HND
 http://200.115.98.26:9000/play/a002
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xO8LjHI.png" group-title="DEPORTES",Meridiano TV VE SD
-http://38.41.8.1:8000/play/a03w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xO8LjHI.png" group-title="DEPORTES",Meridiano TV VE SD
 http://138.117.110.151:8000/play/a05g
 
@@ -313,8 +307,10 @@ http://190.217.66.92:8000/play/a0e8
 http://45.171.180.66:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9i2bR0.png" group-title="NACIONALES",RCN HD2
 http://45.171.180.66:8000/play/a00m
+#EXTINF:-1 tvg-id="977mvstr" group-title="NACIONALES",RCN Novelas SD
+http://80.80.91.195:8000/play/a049
 #EXTINF:-1 tvg-id="135dtv.co" group-title="NACIONALES",RCN Internacional
-http://206.62.161.192:8000/play/a0ef
+http://181.78.12.164:9000/play/a091
 #EXTINF:-1 tvg-id="137dtv.co" group-title="NACIONALES",Señal Colombia SD
 http://45.171.180.66:8000/play/a046
 #EXTINF:-1 tvg-id="137dtv.co" group-title="NACIONALES",Señal Colombia
