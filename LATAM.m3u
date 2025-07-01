@@ -1,45 +1,47 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
 #EXTINF:-1 tvg-id="a-e-mundo.mx" group-title="ENTRETENIMIENTO",A&E SD
-http://179.1.132.203:8000/play/a071/index.m3u8
+http://190.217.66.92:8000/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="a-e-mundo.mx" group-title="ENTRETENIMIENTO",A&E
-http://179.1.132.203:8000/play/a079/index.m3u8
+http://45.171.180.66:8000/play/a03x
 #EXTINF:-1 tvg-id="210dtv.cl" group-title="ENTRETENIMIENTO",AMC SD
-http://179.1.132.203:8000/play/a072/index.m3u8
+http://190.217.66.92:8000/play/a0nl/index.m3u8
 #EXTINF:-1 tvg-id="210dtv.cl" group-title="ENTRETENIMIENTO",AMC
-http://179.1.132.203:8000/play/a07l/index.m3u8
+http://181.119.86.1:8000/play/a01o
 #EXTINF:-1 tvg-id="214dtv.cl" group-title="ENTRETENIMIENTO",ATRES SERIES
-http://179.1.132.203:8000/play/a09r/index.m3u8
+http://45.171.180.66:8000/play/a017
 #EXTINF:-1 tvg-id="209dtv.co" group-title="ENTRETENIMIENTO",AXN SD
-http://179.1.132.203:8000/play/a08e/index.m3u8
+http://190.217.66.92:8000/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-id="209dtv.co" group-title="ENTRETENIMIENTO",AXN
-http://179.1.132.203:8000/play/a07h/index.m3u8
+http://45.171.180.66:8000/play/a03v
 #EXTINF:-1 tvg-id="220dtv.cl" group-title="ENTRETENIMIENTO",Adult Swim SD
-http://179.1.132.203:8000/play/a09s/index.m3u8
+http://45.171.180.66:8000/play/a03e
 #EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE
-http://179.1.132.203:8000/play/a094/index.m3u8
+http://181.119.86.1:8000/play/a04w
 #EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE (Op 2)
 http://190.61.42.218:9000/play/a05p
-#EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE (Op 3)
-http://190.60.49.244:4000/play/a0dz
+#EXTINF:-1 tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet SD
+http://190.217.66.92:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet
-http://179.1.132.203:8000/play/a076/index.m3u8
+http://181.119.86.1:8000/play/a01t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bbIRbpe.png" tvg-id="azteca7.mx" group-title="NACIONALES", Azteca 7
 http://190.92.10.66:4000/play/a007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQnlewD.png" group-title="DEPORTES", Azteca Deportes Network
 http://45.68.35.218:4001/play/a02d
-#EXTINF:-1 tvg-id="1317dtv.cl" group-title="INFANTILES",Baby TV SD
-http://179.1.132.203:8000/play/a07v/index.m3u8
+#EXTINF:-1 tvg-id="1317dtv.cl" group-title="INFANTILES",Baby First SD
+http://190.217.66.92:8000/play/a0d7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zG7aaSC.png" group-title="DEPORTES",BeIN Sports Ñ
 http://181.78.106.127:9000/play/ca039
 #EXTINF:-1 tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias SD
-http://179.1.132.203:8000/play/a09u/index.m3u8
+http://45.171.180.66:8000/play/a03o
 #EXTINF:-1 tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias
-http://179.1.132.203:8000/play/a08m/index.m3u8
+./play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="chv.cl" group-title="NACIONALES",CHV
-http://179.1.132.203:8000/play/a066/index.m3u8
+./play/a066/index.m3u8
 #EXTINF:-1 tvg-id="704dtv.cl" group-title="NOTICIAS",CNN Español SD
-http://179.1.132.203:8000/play/a082/index.m3u8
+http://181.119.86.1:8000/play/a026
+#EXTINF:-1 tvg-id="706dtv.cl" group-title="NOTICIAS",CNN Internacional SD
+http://181.119.86.1:8000/play/a0a1
 
 #EXTINF:-1 group-title="NACIONALES",Canal 4 ESA
 http://190.60.40.37:8001/play/a03r
@@ -49,37 +51,49 @@ http://38.45.44.34:8000/play/a00g
 http://190.61.117.35:8000/play/a012
 
 #EXTINF:-1 tvg-id="152dtv.cl" group-title="NACIONALES",Canal 13 CL
-http://179.1.132.203:8000/play/a06r/index.m3u8
+http://181.119.86.1:8000/play/a028
 #EXTINF:-1 group-title="NACIONALES",Canal 7 RPC
 http://190.83.2.172:8080/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="24horas.cl" group-title="NOTICIAS",Canal 24 Horas
-http://179.1.132.203:8000/play/a08y/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",Canal+ Sport FR
 http://45.90.106.7:8779/play/UdQSm942P@Zv6M
 
+#EXTINF:-1 tvg-id="138dtv.co" group-title="NACIONALES",Canal Institucional SD
+http://190.217.66.92:8000/play/a0eb/index.m3u8
+#EXTINF:-1 tvg-id="138dtv.co" group-title="NACIONALES",Canal Institucional
+http://45.171.180.66:8000/play/a00u
+#EXTINF:-1 group-title="NACIONALES",Canal Trece SD
+http://45.171.180.66:8000/play/a04a
+#EXTINF:-1 group-title="NACIONALES",Canal Trece
+http://45.171.180.66:8000/play/a010
+#EXTINF:-1 group-title="NACIONALES",Canal Trece +
+http://45.171.180.66:8000/play/a011
+#EXTINF:-1 tvg-id="136dtv.co" group-title="NACIONALES",Canal Uno SD
+http://190.217.66.92:8000/play/a0e5/index.m3u8
+#EXTINF:-1 tvg-id="136dtv.co" group-title="NACIONALES",Canal Uno
+http://45.171.180.66:8000/play/a00v
+#EXTINF:-1 tvg-id="143dtv.co" group-title="NACIONALES",Canal Capital SD
+http://190.217.66.92:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol SD
-http://191.97.9.94:8000/play/a05m
+http://190.217.66.92:8000/play/a0e7
 #EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol
-http://179.1.132.203:8000/play/a059/index.m3u8
+http://45.171.180.66:8000/play/a00h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t2esixL.png" group-title="NACIONALES",Caracol HD2
-http://186.148.184.65:8000/play/a03b
+http://45.171.180.66:8000/play/a00i
 #EXTINF:-1 tvg-id="134dtv.co" group-title="NACIONALES",Caracol Internacional
 http://45.68.35.218:4001/play/a01y
 #EXTINF:-1 tvg-id="304dtv.cl" group-title="INFANTILES",Cartoon Network SD
-http://179.1.132.203:8000/play/a07s/index.m3u8
+http://190.217.66.92:8000/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.pe" group-title="ENTRETENIMIENTO",Cinecanal SD
-http://179.1.132.203:8000/play/a08g/index.m3u8
+http://190.217.66.92:8000/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-id="507dtv.co" group-title="ENTRETENIMIENTO",Cinecanal
-http://179.1.132.203:8000/play/a04y/index.m3u8
+http://181.119.86.1:8000/play/a0bt
 #EXTINF:-1 tvg-id="1509dtv.cl" group-title="ENTRETENIMIENTO",Cinemax SD
-http://179.1.132.203:8000/play/a08a/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" group-title="ENTRETENIMIENTO",Cinemax
-http://179.1.132.203:8000/play/a08i/index.m3u8
+http://190.217.66.92:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="133dtv.co" group-title="NACIONALES",City TV SD
-http://179.1.132.203:8000/play/a09w/index.m3u8
+http://190.217.66.92:8000/play/a0em/index.m3u8
 #EXTINF:-1 tvg-id="215dtv.cl" group-title="ENTRETENIMIENTO",Comedy Central
-http://179.1.132.203:8000/play/a07a/index.m3u8
+http://38.7.204.233:8011/play/a2l9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bGmSyxG.png" tvg-id="BestofDanceTV.ee" group-title="MUSICA",Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
@@ -104,12 +118,12 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 http://148.63.206.254:8000/play/a007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CgV9P7x.png" group-title="DEPORTES",DAZN 1 DE
 http://176.65.146.150:8063/play/a06q
+#EXTINF:-1 tvg-id="1513dtv.cl" group-title="ENTRETENIMIENTO",DHE SD
+http://181.119.86.1:8000/play/a03m
 #EXTINF:-1 tvg-id="1513dtv.cl" group-title="ENTRETENIMIENTO",DHE
-http://179.1.132.203:8000/play/a096/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula.mx" group-title="ENTRETENIMIENTO",De Película SD
-http://179.1.132.203:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula.mx" group-title="ENTRETENIMIENTO",De Película SD
-http://179.1.132.203:8000/play/a06i/index.m3u8
+http://181.119.86.1:8000/play/a0ca
+#EXTINF:-1 tvg-id="de-pelicula.mx" group-title="ENTRETENIMIENTO",De Película
+http://45.4.169.50:8000/play/a08d
 
 #EXTINF:-1 group-title="DEPORTES",Deportes TVC HND
 http://190.83.2.178:8009/play/a0g9
@@ -127,103 +141,81 @@ http://177.53.155.236:8000/play/a0jb
 #EXTINF:-1 tvg-id="611dtv.pe" group-title="DEPORTES",Directv Sports 2 (Op 2)
 http://179.63.6.17:9000/play/a08c
 
-#EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel SD CL
-http://179.1.132.203:8000/play/a07x/index.m3u8
-#EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel CL
-http://179.1.132.203:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel CL
-http://179.1.132.203:8000/play/a04z/index.m3u8
-#EXTINF:-1 tvg-id="229dtv.cl" group-title="DOCUMENTALES",Discovery H&H CL
-http://179.1.132.203:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="229dtv.cl" group-title="DOCUMENTALES",Discovery H&H CL
-http://179.1.132.203:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-id="229dtv.cl" group-title="DOCUMENTALES",Discovery H&H CL
-http://179.1.132.203:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel SD
+http://190.217.66.92:8000/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel
+http://181.119.86.1:8000/play/a0bp
+#EXTINF:-1 tvg-id="229dtv.cl" group-title="DOCUMENTALES",Discovery H&H
+http://181.119.86.1:8000/play/a0c5
 #EXTINF:-1 tvg-id="330dtv.cl" group-title="INFANTILES",Discovery Kids SD
-http://179.1.132.203:8000/play/a07t/index.m3u8
+http://190.217.66.92:8000/play/a0fx/index.m3u8
 #EXTINF:-1 tvg-id="330dtv.cl" group-title="INFANTILES",Discovery Kids
-http://179.1.132.203:8000/play/a062/index.m3u8
-#EXTINF:-1 tvg-id="330dtv.cl" group-title="INFANTILES",Discovery Kids
-http://179.1.132.203:8000/play/a05h/index.m3u8
+http://181.119.86.1:8000/play/a01b
 #EXTINF:-1 tvg-id="discovery-science.cl" group-title="DOCUMENTALES",Discovery Science SD
-http://179.1.132.203:8000/play/a09i/index.m3u8
+http://45.4.169.50:8000/play/a08b
 #EXTINF:-1 tvg-id="1731dtv.cl" group-title="DOCUMENTALES",Discovery Theater
-http://179.1.132.203:8000/play/a064/index.m3u8
+http://181.119.86.1:8000/play/a0c6
 #EXTINF:-1 tvg-id="736dtv.cl" group-title="DOCUMENTALES",Discovery Turbo SD
-http://179.1.132.203:8000/play/a08h/index.m3u8
+http://190.217.66.92:8000/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" group-title="DOCUMENTALES",Discovery World
-http://179.1.132.203:8000/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="1738dtv.cl" group-title="DOCUMENTALES",Discovery World
-http://179.1.132.203:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="312dtv.cl" group-title="INFANTILES",Disney
-http://179.1.132.203:8000/play/a04w/index.m3u8
+http://45.4.169.50:8000/play/a06p
+#EXTINF:-1 tvg-id="312dtv.cl" group-title="INFANTILES",Disney Channel SD
+http://190.217.66.92:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="312dtv.cl" group-title="INFANTILES",Disney Channel
+http://181.119.86.1:8000/play/a031
 #EXTINF:-1 tvg-id="315dtv.cl" group-title="INFANTILES",Disney Junior SD
-http://179.1.132.203:8000/play/a08f/index.m3u8
+http://190.217.66.92:8000/play/a0ga/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F9wrdUm.png" tvg-id="629" group-title="ENTRETENIMIENTO",Distrito Comedia SD
-http://179.1.132.203:8000/play/a06j/index.m3u8
+http://45.4.169.50:8000/play/a08c
 #EXTINF:-1 tvg-id="222dtv.cl" group-title="ENTRETENIMIENTO",E! Entertainment TV SD
-http://179.1.132.203:8000/play/a09n/index.m3u8
+http://190.217.66.92:8000/play/a0df/index.m3u8
+#EXTINF:-1 tvg-id="222dtv.cl" group-title="ENTRETENIMIENTO",E! Entertainment TV
+http://45.171.180.66:8000/play/a04x
 
-#EXTINF:-1 tvg-id="1621dtv.co" group-title="DEPORTES",ESPN
-http://179.1.132.203:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-id="1621dtv.co" group-title="DEPORTES",ESPN CO
-http://186.148.184.65:8000/play/a09x
-#EXTINF:-1 tvg-id="1621dtv.co" group-title="DEPORTES",ESPN CO (Op 2)
-http://181.233.168.110:8000/play/a080
-#EXTINF:-1 tvg-id="1175dtv.cl" group-title="DEPORTES",ESPN
-http://179.1.132.203:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="622dtv.co" group-title="DEPORTES",ESPN 2
-http://179.1.132.203:8000/play/a03t/index.m3u8
+http://181.119.86.1:8000/play/a0c1
+#EXTINF:-1 tvg-id="1621dtv.ar" group-title="DEPORTES",ESPN
+http://181.119.86.1:8000/play/a01j
+#EXTINF:-1 tvg-id="1621dtv.co" group-title="DEPORTES",ESPN CO SD
+http://190.217.66.92:8000/play/a0eg
+#EXTINF:-1 tvg-id="1175dtv.cl" group-title="DEPORTES",ESPN SD
+http://190.217.66.92:8000/play/a0di
+#EXTINF:-1 tvg-id="431dtv.cl" group-title="DEPORTES",ESPN 2 CH SD
+http://190.217.66.92:8000/play/a0gd
+#EXTINF:-1 tvg-id="622dtv.ar" group-title="DEPORTES",ESPN 2 SD
+http://190.217.66.92:8000/play/a0dh
 #EXTINF:-1 tvg-id="431dtv.cl" group-title="DEPORTES",ESPN 2
-http://179.1.132.203:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-id="431dtv.cl" group-title="DEPORTES",ESPN 2 CH
-http://186.148.184.65:8000/play/a00e
-#EXTINF:-1 tvg-id="622dtv.ar" group-title="DEPORTES",ESPN 2
-http://179.1.132.203:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="622dtv.ar" group-title="DEPORTES",ESPN 2 AR
-http://186.148.184.65:8000/play/a08y
+http://181.119.86.1:8000/play/a016
 #EXTINF:-1 tvg-id="1075dtv.cl" group-title="DEPORTES",ESPN 3
-http://179.1.132.203:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="1075dtv.cl" group-title="DEPORTES",ESPN 3
-http://179.1.132.203:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lJiOM4q.png" tvg-id="1620dtv.cl" group-title="DEPORTES",ESPN 4 SD
-http://179.1.132.203:8000/play/a07q/index.m3u8
+http://181.119.86.1:8000/play/a033
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGwgsyA.png" tvg-id="1620dtv.cl" group-title="DEPORTES",ESPN 4
-http://179.1.132.203:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oGwgsyA.png" tvg-id="1620dtv.cl" group-title="DEPORTES",ESPN 4
-http://179.1.132.203:8000/play/a07k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M5sAeZB.png" tvg-id="624dtv.co" group-title="DEPORTES",ESPN 5
-http://179.1.132.203:8000/play/a06t/index.m3u8
+http://181.119.86.1:8000/play/a03x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M5sAeZB.png" tvg-id="608dtv.cl" group-title="DEPORTES",ESPN 5
-http://179.1.132.203:8000/play/a05o/index.m3u8
+http://181.119.86.1:8000/play/a01f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcJJAmV.png" tvg-id="3081dtv.cl" group-title="DEPORTES",ESPN 6 SD
+http://190.217.66.92:8000/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcJJAmV.png" tvg-id="3081dtv.cl" group-title="DEPORTES",ESPN 6
-http://179.1.132.203:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XcJJAmV.png" tvg-id="3081dtv.cl" group-title="DEPORTES",ESPN 6
-http://179.1.132.203:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XcJJAmV.png" tvg-id="3081dtv.cl" group-title="DEPORTES",ESPN 6
-http://179.1.132.203:8000/play/a03o/index.m3u8
+http://181.119.86.1:8000/play/a015
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8bguPl.png" tvg-id="3082dtv.cl" group-title="DEPORTES",ESPN 7 SD
+http://190.217.66.92:8000/play/a0e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8bguPl.png" tvg-id="3082dtv.cl" group-title="DEPORTES",ESPN 7
-http://179.1.132.203:8000/play/a06u/index.m3u8
+http://181.119.86.1:8000/play/a0bu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="DEPORTES",ESPN Deportes US
 http://190.92.10.66:4000/play/a003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="DEPORTES",ESPN Deportes US (Op 2)
 http://45.68.35.218:4001/play/a015
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="DEPORTES",ESPN Deportes US (Op 3)
 http://200.115.98.26:9000/play/a044
-#EXTINF:-1 tvg-id="232dtv.cl" group-title="ENTRETENIMIENTO",El Gourmet SD
-http://179.1.132.203:8000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="232dtv.cl" group-title="ENTRETENIMIENTO",El Gourmet
-http://179.1.132.203:8000/play/a07b/index.m3u8
-#EXTINF:-1 tvg-id="352dtv.cl" group-title="RELIGION",Enlace SD
-http://179.1.132.203:8000/play/a09p/index.m3u8
+http://181.119.86.1:8000/play/a06f
 #EXTINF:-1 tvg-id="217dtv.cl" group-title="ENTRETENIMIENTO",FX SD
-http://179.1.132.203:8000/play/a089/index.m3u8
+http://190.217.66.92:8000/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-id="217dtv.cl" group-title="ENTRETENIMIENTO",FX
-http://179.1.132.203:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-id="217dtv.cl" group-title="ENTRETENIMIENTO",FX
-http://179.1.132.203:8000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="233dtv.cl" group-title="ENTRETENIMIENTO",Food Network HD
-http://179.1.132.203:8000/play/a093/index.m3u8
+http://181.119.86.1:8000/play/a0c2
+#EXTINF:-1 tvg-id="233dtv.cl" group-title="ENTRETENIMIENTO",Food Network SD
+http://181.119.86.1:8000/play/a0ci
+#EXTINF:-1 tvg-id="233dtv.cl" group-title="ENTRETENIMIENTO",Food Network
+http://45.169.163.106:8000/play/a017
 
 #EXTINF:-1 group-title="NACIONALES",GEN PY
 http://138.59.227.28:8000/play/a0cd
@@ -231,39 +223,45 @@ http://138.59.227.28:8000/play/a0cd
 #EXTINF:-1 tvg-id="658dtv.ec" group-title="DEPORTES",Gol TV SD
 http://181.198.67.62:8000/play/a0c7
 #EXTINF:-1 tvg-id="503dtv.cl" group-title="ENTRETENIMIENTO",Golden SD
-http://179.1.132.203:8000/play/a06k/index.m3u8
+http://45.4.169.50:8000/play/a07x
+#EXTINF:-1 tvg-id="503dtv.cl" group-title="ENTRETENIMIENTO",Golden
+http://45.4.169.50:8000/play/a025
 #EXTINF:-1 tvg-id="517dtv.cl" group-title="ENTRETENIMIENTO",Golden Edge SD
-http://179.1.132.203:8000/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="1503dtv.cl" group-title="ENTRETENIMIENTO",Golden Plus SD
-http://181.198.67.62:8000/play/a0c1
-#EXTINF:-1 tvg-id="hgtv.ar" group-title="DOCUMENTALES",HGTV SD
-http://179.1.132.203:8000/play/a09b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oakSN3.png" group-title="DOCUMENTALES",HOGAR TV
-http://179.1.132.203:8000/play/a03p/index.m3u8
+http://45.4.169.50:8000/play/a085
+#EXTINF:-1 tvg-id="517dtv.cl" group-title="ENTRETENIMIENTO",Golden Edge
+http://45.169.163.106:8000/play/a018
+#EXTINF:-1 tvg-id="1503dtv.cl" group-title="ENTRETENIMIENTO",Golden Plus
+http://45.169.163.106:8000/play/a019
+#EXTINF:-1 tvg-id="550" group-title="ENTRETENIMIENTO",Golden Premier
+http://45.4.169.50:8000/play/a027
 #EXTINF:-1 tvg-id="272dtv.cl" group-title="MUSICA",HTV SD
-http://179.1.132.203:8000/play/a09c/index.m3u8
-#EXTINF:-1 tvg-id="744dtv.cl" group-title="DOCUMENTALES",History 2 SD
-http://179.1.132.203:8000/play/a098/index.m3u8
+http://45.171.180.66:8000/play/a04s
 #EXTINF:-1 tvg-id="1742dtv.cl" group-title="DOCUMENTALES",History Channel
-http://179.1.132.203:8000/play/a078/index.m3u8
+http://45.171.180.66:8000/play/a03y
+#EXTINF:-1 tvg-id="744dtv.cl" group-title="DOCUMENTALES",History 2 SD
+http://45.4.169.50:8000/play/a07z
+#EXTINF:-1 tvg-id="744dtv.cl" group-title="DOCUMENTALES",History 2
+http://45.171.180.66:8000/play/a03w
 #EXTINF:-1 tvg-id="223dtv.cl" group-title="DOCUMENTALES",ID
-http://179.1.132.203:8000/play/a07i/index.m3u8
-#EXTINF:-1 tvg-id="235dtv.cl" group-title="ENTRETENIMIENTO",IVC SD
-http://179.1.132.203:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlqSrzZ.png" group-title="MUSICA",LA SUPER
-http://179.1.132.203:8000/play/a04n/index.m3u8
+http://181.119.86.1:8000/play/a046
 #EXTINF:-1 tvg-id="865mvstr.cl" group-title="ENTRETENIMIENTO",LOVE NATURE
 http://181.78.14.26:8000/play/a07h
-#EXTINF:-1 tvg-id="lared.cl" group-title="NACIONALES",La Red
-http://179.1.132.203:8000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-id="lared.cl" group-title="NACIONALES",La Red CL SD
+http://45.4.169.50:8000/play/a012
 #EXTINF:-1 tvg-id="226dtv.cl" group-title="NOVELAS",Las Estrellas SD
-http://179.1.132.203:8000/play/a06n/index.m3u8
+http://190.217.66.92:8000/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="2mvstr.pe" group-title="NACIONALES",Latina
-http://179.1.132.203:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="2mvstr.pe" group-title="NACIONALES",Latina
-http://179.1.132.203:8000/play/a097/index.m3u8
+http://181.119.86.1:8000/play/a02c
 #EXTINF:-1 tvg-id="mega.cl" group-title="NACIONALES",MEGA
-http://179.1.132.203:8000/play/a06f/index.m3u8
+http://45.4.169.50:8000/play/a06l
+#EXTINF:-1 group-title="NACIONALES",MEGA 2
+http://45.4.169.50:8000/play/a02c
+#EXTINF:-1 tvg-id="mega.cl" group-title="NACIONALES",MEGA Ficción
+http://45.4.169.50:8000/play/a02d
+#EXTINF:-1 tvg-id="mega.cl" group-title="NACIONALES",MEGA Noticias
+http://45.4.169.50:8000/play/a02f
+#EXTINF:-1 tvg-id="mega.cl" group-title="NACIONALES",MEGA Tiempo
+http://45.4.169.50:8000/play/a02e
 
 #EXTINF:-1 group-title="NACIONALES",MegaTV HND
 http://200.115.98.26:9000/play/a002
@@ -274,7 +272,7 @@ http://38.41.8.1:8000/play/a03w
 http://138.117.110.151:8000/play/a05g
 
 #EXTINF:-1 tvg-id="mtv.cl" group-title="ENTRETENIMIENTO",MTV
-http://179.1.132.203:8000/play/a08t/index.m3u8
+http://181.119.86.1:8000/play/a02r
 #EXTINF:-1 tvg-id="262dtv.cl" group-title="MUSICA",MTV 00s
 http://181.198.67.62:8000/play/a0kn
 #EXTINF:-1 tvg-id="263dtv.cl" group-title="MUSICA",MTV Live HD
@@ -292,102 +290,85 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc408
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PNglkcA.png" group-title="DEPORTES",NBC Universo US
 http://181.78.106.127:9000/play/ca088
 #EXTINF:-1 tvg-id="145dtv.co" group-title="NOTICIAS",NTN 24 Horas SD
-http://179.1.132.203:8000/play/a09d/index.m3u8
+http://181.78.78.66:8000/play/a0cr
 #EXTINF:-1 tvg-id="730dtv.cl" group-title="DOCUMENTALES",Nat Geo SD
-http://179.1.132.203:8000/play/a07c/index.m3u8
-#EXTINF:-1 tvg-id="308dtv.cl" group-title="INFANTILES",Nick
-http://179.1.132.203:8000/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="308dtv.cl" group-title="INFANTILES",Nick
-http://179.1.132.203:8000/play/a00m/index.m3u8
+http://181.119.86.1:8000/play/a01l
+#EXTINF:-1 tvg-id="730dtv.cl" group-title="DOCUMENTALES",Nat Geo
+http://181.119.86.1:8000/play/a0br
+#EXTINF:-1 tvg-id="308dtv.cl" group-title="INFANTILES",Nickelodeon SD
+http://181.119.86.1:8000/play/a030
+#EXTINF:-1 tvg-id="308dtv.cl" group-title="INFANTILES",Nickelodeon
+http://181.119.86.1:8000/play/a00y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVfNB3E.png" group-title="DEPORTES",Nova Sport 4
 http://185.236.230.212:9981/play/a0av
 
+#EXTINF:-1 tvg-id="510dtv.cl" group-title="ENTRETENIMIENTO",Paramount SD
+http://45.169.163.106:8000/play/a01p
 #EXTINF:-1 tvg-id="824dtv.cl" group-title="ENTRETENIMIENTO",Paramount
-http://179.1.132.203:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="510dtv.cl" group-title="ENTRETENIMIENTO",Paramount
-http://179.1.132.203:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QEUIa8T.png" group-title="MUSICA",RANCHENATO 
-http://179.1.132.203:8000/play/a01l/index.m3u8
+http://181.119.86.1:8000/play/a00q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PE2UcNq.png" tvg-id="130dtv.co" group-title="NACIONALES",RCN SD
-http://186.148.184.65:8000/play/a09q
+http://190.217.66.92:8000/play/a0e8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PE2UcNq.png" tvg-id="130dtv.co" group-title="NACIONALES",RCN
-http://179.1.132.203:8000/play/a058/index.m3u8
+http://45.171.180.66:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9i2bR0.png" group-title="NACIONALES",RCN HD2
-http://186.148.184.65:8000/play/a073
-#EXTINF:-1 tvg-id="977mvstr.co" group-title="NOVELAS",RCN NOVELAS
-http://179.1.132.203:8000/play/a049/index.m3u8
+http://45.171.180.66:8000/play/a00m
 #EXTINF:-1 tvg-id="135dtv.co" group-title="NACIONALES",RCN Internacional
-http://179.1.132.203:8000/play/a09h/index.m3u8
-#EXTINF:-1 tvg-id="135dtv.co" group-title="NACIONALES",RCN Internacional (Op 2)
 http://206.62.161.192:8000/play/a0ef
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJELsHc.png" group-title="MUSICA",RUMBA TV
-http://179.1.132.203:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="137dtv.co" group-title="NACIONALES",Señal Colombia SD
+http://45.171.180.66:8000/play/a046
+#EXTINF:-1 tvg-id="137dtv.co" group-title="NACIONALES",Señal Colombia
+http://45.171.180.66:8000/play/a00t
 #EXTINF:1 tvg-logo="https://i.imgur.com/mstDDHe.png" group-title="DEPORTES", SKY LaLiga MX
 http://200.115.96.66:4000/play/a029
-#EXTINF:-1 tvg-id="204dtv.ar" group-title="ENTRETENIMIENTO",STAR CHANNEL
-http://179.1.132.203:8000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YAwCDIe.png" group-title="NACIONALES",SURAM SD
-http://179.1.132.203:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="208dtv.cl" group-title="ENTRETENIMIENTO",Sony SD
-http://179.1.132.203:8000/play/a086/index.m3u8
-#EXTINF:-1 tvg-id="208dtv.cl" group-title="ENTRETENIMIENTO",Sony
-http://179.1.132.203:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="204dtv.ar" group-title="ENTRETENIMIENTO",Star Channel
+http://181.119.86.1:8000/play/a03h
+#EXTINF:-1 tvg-id="208dtv.cl" group-title="ENTRETENIMIENTO",Sony Channel
+http://45.171.180.66:8000/play/a03z
 #EXTINF:-1 tvg-id="1506dtv.cl" group-title="ENTRETENIMIENTO",Sony Movies SD
-http://179.1.132.203:8000/play/a08d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L34x2Tm.png" group-title="DEPORTES",Sony Sports TEN 2
-http://103.57.224.144:7000/play/a05f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYw2OdV.png" group-title="DEPORTES",Sony Sports TEN 3
-http://103.57.224.144:7000/play/a03s
-
-#EXTINF:-1 tvg-id="518dtv.cl" group-title="ENTRETENIMIENTO",Space SD
-http://179.1.132.203:8000/play/a088/index.m3u8
+http://45.4.169.50:8000/play/a08l
+#EXTINF:-1 tvg-id="1506dtv.cl" group-title="ENTRETENIMIENTO",Sony Movies
+http://45.171.180.66:8000/play/a02r
 #EXTINF:-1 tvg-id="518dtv.cl" group-title="ENTRETENIMIENTO",Space
-http://179.1.132.203:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="518dtv.cl" group-title="ENTRETENIMIENTO",Space
-http://179.1.132.203:8000/play/a07j/index.m3u8
+http://45.171.180.66:8000/play/a04q
 #EXTINF:-1 tvg-id="508dtv.cl" group-title="ENTRETENIMIENTO",Studio Universal
-http://179.1.132.203:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="508dtv.cl" group-title="ENTRETENIMIENTO",Studio Universal
-http://179.1.132.203:8000/play/a091/index.m3u8
+http://45.171.180.66:8000/play/a02s
 
 #EXTINF:-1 group-title="DEPORTES",TD+ HD CR
 http://45.190.187.183:8080/play/a1fs
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W8Xsje7.png" group-title="MUSICA",TELENOSTALGIA SD
-http://179.1.132.203:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="231dtv.cl" group-title="ENTRETENIMIENTO",Telemundo Internacional
+http://45.171.180.66:8000/play/a02t
 #EXTINF:-1 tvg-id="740dtv.cl" group-title="DOCUMENTALES",TLC SD
-http://179.1.132.203:8000/play/a099/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.cl" group-title="ENTRETENIMIENTO",TNT CL SD
-http://179.1.132.203:8000/play/a087/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.ar" group-title="ENTRETENIMIENTO",TNT AR
-http://179.1.132.203:8000/play/a07d/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.ar" group-title="ENTRETENIMIENTO",TNT AR
-http://179.1.132.203:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="864mvstr.co" group-title="NOVELAS",TNT Novelas
-http://179.1.132.203:8000/play/a06z/index.m3u8
+http://45.4.169.50:8000/play/a0ac
+#EXTINF:-1 tvg-id="502dtv.cl" group-title="ENTRETENIMIENTO",TNT
+http://45.171.180.66:8000/play/a04h
+#EXTINF:-1 tvg-id="864mvstr.co" group-title="NOVELAS",TNT Novelas SD
+http://45.171.180.66:8000/play/a052
 #EXTINF:-1 tvg-id="213dtv.cl" group-title="ENTRETENIMIENTO",TNT Series
-http://179.1.132.203:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="213dtv.cl" group-title="ENTRETENIMIENTO",TNT Series
-http://179.1.132.203:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-id="213dtv.cl" group-title="ENTRETENIMIENTO",TNT Series
-http://179.1.132.203:8000/play/a05j/index.m3u8
+http://181.119.86.1:8000/play/a04p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES",TUDN USA
 http://190.92.10.66:4000/play/a002
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcTyfw8.png" group-title="NACIONALES",TV AGRO SD
-http://179.1.132.203:8000/play/a03q/index.m3u8
+http://181.119.86.1:8000/play/a0b3
 #EXTINF:-1 tvg-id="149dtv.cl" group-title="NACIONALES",TVN
-http://179.1.132.203:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="180dtv.ec" group-title="NACIONALES",Teleamazonas SD
-http://179.1.132.203:8000/play/a07o/index.m3u8
+http://45.4.169.50:8000/play/a01b
 
 #EXTINF:-1 tvg-id="180dtv.ec" group-title="NACIONALES",Teleamazonas
 http://45.224.96.65:8010/play/a005
 
-
+#EXTINF:-1 tvg-id="140dtv.co" group-title="NACIONALES",Teleantioquia SD
+http://45.171.180.66:8000/play/a02c
+#EXTINF:-1 group-title="NACIONALES",Telecafe SD
+http://45.171.180.66:8000/play/a04c
+#EXTINF:-1 tvg-id="142dtv.co" group-title="NACIONALES",Telecaribe SD
+http://45.171.180.66:8000/play/a048
+#EXTINF:-1 group-title="NACIONALES",Teleislas SD
+http://45.171.180.66:8000/play/a04f
+#EXTINF:-1 tvg-id="141dtv.co" group-title="NACIONALES",Telepacífico SD
+http://45.171.180.66:8000/play/a049
 #EXTINF:-1 tvg-id="227dtv.cl" group-title="NOVELAS",Telenovelas SD
-http://179.1.132.203:8000/play/a09g/index.m3u8
+http://45.4.169.50:8000/play/a08n
 
 #EXTINF:-1 group-title="NACIONALES",Telecadena 7/4 HND
 http://190.61.116.155:7000/play/a08m
@@ -396,7 +377,7 @@ http://190.61.116.155:7000/play/a08m
 http://45.163.139.42:8000/play/a02k
 
 #EXTINF:-1 tvg-id="tooncast.ar" group-title="INFANTILES",Tooncast SD
-http://179.1.132.203:8000/play/a09a/index.m3u8
+http://45.171.180.66:8000/play/a041
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VeYiKDA.png" group-title="DEPORTES",TUDN MX
 http://45.68.35.218:4001/play/a00u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VeYiKDA.png" group-title="DEPORTES",TUDN US
@@ -407,10 +388,8 @@ http://190.83.2.178:8008/play/a0i3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Higm2wY.png" group-title="DEPORTES",TV5 MONDE Europe
 http://84.22.55.2:8010/play/s281
 
-#EXTINF:-1 tvg-id="218dtv.co" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL
-http://179.1.132.203:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-id="218dtv.co" group-title="ENTRETENIMIENTO",Universal
-http://179.1.132.203:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-id="218dtv.co" group-title="ENTRETENIMIENTO",Universal Channel
+http://45.171.180.66:8000/play/a02u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MH4Y9vQ.png" tvg-id="1572dtv.cl" group-title="ENTRETENIMIENTO",Universal Cinema Este
 http://177.53.155.236:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/46753pC.png" tvg-id="1573dtv.cl" group-title="ENTRETENIMIENTO",Universal Comedy
@@ -424,9 +403,7 @@ http://177.53.155.236:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4FMPCq.png" group-title="ENTRETENIMIENTO",Universal Reality
 http://177.53.155.236:8000/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="219dtv.cl" group-title="ENTRETENIMIENTO",USA
-http://179.1.132.203:8000/play/a09e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gsQlNtS.png" group-title="MUSICA",Universo
-http://179.1.132.203:8000/play/a06v/index.m3u8
+http://45.171.180.66:8000/play/a02v
 
 #EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTES",Win Sports SD
 http://190.60.47.92:9000/play/a0ct
@@ -439,11 +416,9 @@ http://181.198.67.62:8000/play/a03d
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol (Op 2)
 http://181.78.4.250:8098/play/a08r
 
-#EXTINF:-1 tvg-id="1206dtv.cl" group-title="ENTRETENIMIENTO",Warner Channel SD
-http://179.1.132.203:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="1206dtv.cl" group-title="ENTRETENIMIENTO",Warner Channel
-http://179.1.132.203:8000/play/a07g/index.m3u8
+http://181.119.86.1:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAFVxwS.png" group-title="DEPORTES",Ziggo Sport NL
 http://86.87.15.10:8008/play/a01h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2y0zoa.png" group-title="NACIONALES",ZOOM
-http://179.1.132.203:8000/play/a05q/index.m3u8
+http://181.78.12.164:9000/play/ch71
