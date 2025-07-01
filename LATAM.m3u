@@ -226,7 +226,7 @@ http://45.4.169.50:8000/play/a027
 http://80.80.91.195:8000/play/a02v
 
 #EXTINF:-1 tvg-id="1481dtv.cl" group-title="ENTRETENIMIENTO",HBO CL SD
-http://45.169.163.106:8000/play/a01c
+http://190.60.40.37:8001/play/a0e8
 #EXTINF:-1 tvg-id="hbo.py" group-title="ENTRETENIMIENTO",HBO PY SD
 http://190.60.40.37:8001/play/a029
 #EXTINF:-1 tvg-id="1524dtv.co" group-title="ENTRETENIMIENTO",HBO
