@@ -120,8 +120,12 @@ http://190.61.116.155:7000/play/a09t
 http://186.148.196.82:8001/play/a035
 #EXTINF:-1 tvg-id="610dtv.pe" group-title="DEPORTES",Directv Sports PE
 http://177.53.155.236:8000/play/a0co
+#EXTINF:-1 tvg-id="610dtv.pe" group-title="DEPORTES",Directv Sports (Op 2)
+http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 tvg-id="611dtv.pe" group-title="DEPORTES",Directv Sports 2
 http://177.53.155.236:8000/play/a0jb
+#EXTINF:-1 tvg-id="611dtv.pe" group-title="DEPORTES",Directv Sports 2 (Op 2)
+http://179.63.6.17:9000/play/a08c
 
 #EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel SD CL
 http://179.1.132.203:8000/play/a07x/index.m3u8
