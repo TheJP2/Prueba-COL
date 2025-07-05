@@ -1,60 +1,62 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
-#EXTINF:-1 tvg-id="a-e-mundo.mx" group-title="ENTRETENIMIENTO",A&E SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9R8cemb.png" tvg-id="a-e-mundo.mx" group-title="ENTRETENIMIENTO",A&E SD
 http://190.217.66.92:8000/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-id="a-e-mundo.mx" group-title="ENTRETENIMIENTO",A&E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgYm8dR.png" tvg-id="a-e-mundo.mx" group-title="ENTRETENIMIENTO",A&E
 http://45.171.180.66:8000/play/a03x
-#EXTINF:-1 tvg-id="210dtv.cl" group-title="ENTRETENIMIENTO",AMC SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GAu6qm5.png" tvg-id="210dtv.cl" group-title="ENTRETENIMIENTO",AMC SD
 http://190.217.66.92:8000/play/a0nl/index.m3u8
-#EXTINF:-1 tvg-id="210dtv.cl" group-title="ENTRETENIMIENTO",AMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1bLm4a.png" tvg-id="210dtv.cl" group-title="ENTRETENIMIENTO",AMC
 http://181.119.86.1:8000/play/a01o
-#EXTINF:-1 tvg-id="214dtv.cl" group-title="ENTRETENIMIENTO",ATRES SERIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83gNUby.png" tvg-id="214dtv.cl" group-title="ENTRETENIMIENTO",ATRES SERIES
 http://45.171.180.66:8000/play/a017
-#EXTINF:-1 tvg-id="209dtv.co" group-title="ENTRETENIMIENTO",AXN SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eN1VYTa.png" tvg-id="209dtv.co" group-title="ENTRETENIMIENTO",AXN SD
 http://190.217.66.92:8000/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-id="209dtv.co" group-title="ENTRETENIMIENTO",AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5cnXpY.png" tvg-id="209dtv.co" group-title="ENTRETENIMIENTO",AXN
 http://45.171.180.66:8000/play/a03v
-#EXTINF:-1 tvg-id="220dtv.cl" group-title="ENTRETENIMIENTO",Adult Swim SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l9iEqA2.png" tvg-id="220dtv.cl" group-title="ENTRETENIMIENTO",Adult Swim SD
 http://45.171.180.66:8000/play/a03e
-#EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZgKPEi.png" tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE
 http://181.119.86.1:8000/play/a04w
-#EXTINF:-1 tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE (Op 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZgKPEi.png" tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE (Op 2)
 http://190.61.42.218:9000/play/a05p
-#EXTINF:-1 tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bu9peCm.png" tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet SD
 http://190.217.66.92:8000/play/a0dd/index.m3u8
-#EXTINF:-1 tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmQ4gNe.png" tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet
 http://181.119.86.1:8000/play/a01t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bbIRbpe.png" tvg-id="azteca7.mx" group-title="NACIONALES", Azteca 7
 http://190.92.10.66:4000/play/a007
-#EXTINF:-1 tvg-id="1317dtv.cl" group-title="INFANTILES",Baby First SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLQETMU.png" tvg-id="1317dtv.cl" group-title="INFANTILES",Baby First SD
 http://190.217.66.92:8000/play/a0d7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zG7aaSC.png" group-title="DEPORTES",BeIN Sports Ñ
 http://181.78.106.127:9000/play/ca039
-#EXTINF:-1 tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNqtdpk.png" tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias SD
 http://45.171.180.66:8000/play/a03o
-#EXTINF:-1 tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNqtdpk.png" tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias
 ./play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="chv.cl" group-title="NACIONALES",CHV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7OpqHC.png" tvg-id="chv.cl" group-title="NACIONALES",CHV
 ./play/a066/index.m3u8
-#EXTINF:-1 tvg-id="704dtv.cl" group-title="NOTICIAS",CNN Español SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TPmeRlY.png" tvg-id="704dtv.cl" group-title="NOTICIAS",CNN Español SD
 http://181.119.86.1:8000/play/a026
-#EXTINF:-1 tvg-id="706dtv.cl" group-title="NOTICIAS",CNN Internacional SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFIiN0b.png" tvg-id="706dtv.cl" group-title="NOTICIAS",CNN Internacional SD
 http://181.119.86.1:8000/play/a0a1
 
-#EXTINF:-1 group-title="NACIONALES",Canal 4 ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEUegOB.png" group-title="NACIONALES",Canal 4 ESA
 http://190.60.40.37:8001/play/a03r
-#EXTINF:-1 group-title="NACIONALES",Canal 4 ESA (Op 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEUegOB.png" group-title="NACIONALES",Canal 4 ESA (Op 2)
 http://38.45.44.34:8000/play/a00g
-#EXTINF:-1 group-title="NACIONALES",Canal 4 ESA SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IbWdF2b.png" group-title="NACIONALES",Canal 4 ESA SD
 http://190.61.117.35:8000/play/a012
 
-#EXTINF:-1 tvg-id="152dtv.cl" group-title="NACIONALES",Canal 13 CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGqG0kH.png" tvg-id="152dtv.cl" group-title="NACIONALES",Canal 13 CL
 http://181.119.86.1:8000/play/a028
-#EXTINF:-1 group-title="NACIONALES",Canal 7 RPC
-http://190.83.2.172:8080/play/a02u/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Canal+ Sport FR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M5JLiiw.png" group-title="DEPORTES",Canal+ Sport FR
 http://45.90.106.7:8779/play/UdQSm942P@Zv6M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD9fasR.png" group-title="DEPORTES",Canal+ FR
+http://45.90.106.7:8779/play/QLt427H3@Ex5Q/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAQSQiw.png" group-title="DEPORTES",Canal+ UHD FR (ONLY DEVICES 4K)
+http://45.90.106.7:8779/play/JtQkR2049n0@E4B
 
 #EXTINF:-1 tvg-id="138dtv.co" group-title="NACIONALES",Canal Institucional SD
 http://190.217.66.92:8000/play/a0eb/index.m3u8
@@ -76,6 +78,8 @@ http://190.217.66.92:8000/play/a0en/index.m3u8
 http://190.217.66.92:8000/play/a0e7
 #EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol
 http://45.171.180.66:8000/play/a00h
+#EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 2)
+http://38.252.213.10:9000/play/a00h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t2esixL.png" group-title="NACIONALES",Caracol HD2
 http://45.171.180.66:8000/play/a00i
 #EXTINF:-1 tvg-id="304dtv.cl" group-title="INFANTILES",Cartoon Network SD
@@ -339,6 +343,8 @@ http://181.119.86.1:8000/play/a00q
 http://190.217.66.92:8000/play/a0e8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PE2UcNq.png" tvg-id="130dtv.co" group-title="NACIONALES",RCN
 http://45.171.180.66:8000/play/a00l
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE2UcNq.png" tvg-id="130dtv.co" group-title="NACIONALES",RCN
+http://38.252.213.10:9000/play/a00h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9i2bR0.png" group-title="NACIONALES",RCN HD2
 http://45.171.180.66:8000/play/a00m
 #EXTINF:-1 tvg-id="977mvstr" group-title="NACIONALES",RCN Novelas SD
@@ -384,7 +390,7 @@ http://181.119.86.1:8000/play/a0b3
 #EXTINF:-1 tvg-id="149dtv.cl" group-title="NACIONALES",TVN
 http://45.4.169.50:8000/play/a01b
 
-#EXTINF:-1 tvg-id="180dtv.ec" group-title="NACIONALES",Teleamazonas
+#EXTINF:-1 tvg-id="180dtv.ec" group-title="NACIONALES",Teleamazonas EC
 http://45.224.96.65:8010/play/a005
 
 #EXTINF:-1 tvg-id="140dtv.co" group-title="NACIONALES",Teleantioquia SD
@@ -403,7 +409,9 @@ http://45.4.169.50:8000/play/a08n
 #EXTINF:-1 group-title="NACIONALES",Telecadena 7/4 HND
 http://190.61.116.155:7000/play/a08m
 
-#EXTINF:-1 group-title="NACIONALES",Teletica 7 CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZjp1T5.png" group-title="NACIONALES",Teletica Canal 7 CR
+http://190.83.2.172:8080/play/a02u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZjp1T5.png" group-title="NACIONALES",Teletica Canal 7 CR (Op 2)
 http://45.163.139.42:8000/play/a02k
 
 #EXTINF:-1 tvg-id="tooncast.ar" group-title="INFANTILES",Tooncast SD
@@ -447,6 +455,8 @@ http://190.60.48.85:9080/play/a1e8
 http://181.119.86.1:8000/play/a0ce
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol (Op 2)
 http://181.78.4.250:8098/play/a08r
+#EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol (Op 3)
+http://38.252.213.10:9000/play/a06r
 
 #EXTINF:-1 tvg-id="1206dtv.cl" group-title="ENTRETENIMIENTO",Warner Channel
 http://181.119.86.1:8000/play/a00r
