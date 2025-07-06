@@ -337,7 +337,7 @@ http://181.119.86.1:8000/play/a00y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kVfNB3E.png" group-title="DEPORTES",Nova Sport 4
 http://185.236.230.212:9981/play/a0av
 
-#EXTINF:-1 tvg-id="510dtv.cl" group-title="ENTRETENIMIENTO",Paramount SD
+#EXTINF:-1 tvg-id="824dtv.cl" group-title="ENTRETENIMIENTO",Paramount SD
 http://45.169.163.106:8000/play/a01p
 #EXTINF:-1 tvg-id="824dtv.cl" group-title="ENTRETENIMIENTO",Paramount
 http://181.119.86.1:8000/play/a00q
