@@ -58,43 +58,45 @@ http://45.90.106.7:8779/play/QLt427H3@Ex5Q/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAQSQiw.png" group-title="DEPORTES",Canal+ UHD FR (ONLY DEVICES 4K)
 http://45.90.106.7:8779/play/JtQkR2049n0@E4B
 
-#EXTINF:-1 tvg-id="138dtv.co" group-title="NACIONALES",Canal Institucional SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a4Xf7pQ.png" tvg-id="138dtv.co" group-title="NACIONALES",Canal Institucional SD
 http://190.217.66.92:8000/play/a0eb/index.m3u8
-#EXTINF:-1 tvg-id="138dtv.co" group-title="NACIONALES",Canal Institucional
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RFyScg.png" tvg-id="138dtv.co" group-title="NACIONALES",Canal Institucional
 http://45.171.180.66:8000/play/a00u
-#EXTINF:-1 group-title="NACIONALES",Canal Trece SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Muv8MSp.png" group-title="NACIONALES",Canal Trece SD
 http://45.171.180.66:8000/play/a04a
-#EXTINF:-1 group-title="NACIONALES",Canal Trece
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Muv8MSp.png" group-title="NACIONALES",Canal Trece
 http://45.171.180.66:8000/play/a010
-#EXTINF:-1 group-title="NACIONALES",Canal Trece +
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Muv8MSp.png" group-title="NACIONALES",Canal Trece +
 http://45.171.180.66:8000/play/a011
-#EXTINF:-1 tvg-id="136dtv.co" group-title="NACIONALES",Canal Uno SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8H5PRd.png" tvg-id="136dtv.co" group-title="NACIONALES",Canal Uno SD
 http://190.217.66.92:8000/play/a0e5/index.m3u8
-#EXTINF:-1 tvg-id="136dtv.co" group-title="NACIONALES",Canal Uno
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suDvW61.png" tvg-id="136dtv.co" group-title="NACIONALES",Canal Uno
 http://45.171.180.66:8000/play/a00v
-#EXTINF:-1 tvg-id="143dtv.co" group-title="NACIONALES",Canal Capital SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yxg8pN0.png" tvg-id="143dtv.co" group-title="NACIONALES",Canal Capital SD
 http://190.217.66.92:8000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hOdLKod.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol SD
 http://190.217.66.92:8000/play/a0e7
-#EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol
 http://45.171.180.66:8000/play/a00h
-#EXTINF:-1 tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 2)
 http://38.252.213.10:9000/play/a00h
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t2esixL.png" group-title="NACIONALES",Caracol HD2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOZfjQo.png" group-title="NACIONALES",Caracol HD2
 http://45.171.180.66:8000/play/a00i
-#EXTINF:-1 tvg-id="304dtv.cl" group-title="INFANTILES",Cartoon Network SD
-http://190.217.66.92:8000/play/a0d3/index.m3u8
-#EXTINF:-1 tvg-id="cinecanal.pe" group-title="ENTRETENIMIENTO",Cinecanal SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWvMZRj.png" tvg-id="304dtv.cl" group-title="INFANTILES",Cartoon Network SD
+http://190.217.66.92:8000/play/a0d3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWy2ChN.png" tvg-id="304dtv.cl" group-title="INFANTILES",Cartoon Network
+http://190.60.40.37:8001/play/a049
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bH11AdL.png" tvg-id="cinecanal.pe" group-title="ENTRETENIMIENTO",Cinecanal SD
 http://190.217.66.92:8000/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="507dtv.co" group-title="ENTRETENIMIENTO",Cinecanal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bITgaCB.png" tvg-id="507dtv.co" group-title="ENTRETENIMIENTO",Cinecanal
 http://181.119.86.1:8000/play/a0bt
-#EXTINF:-1 tvg-id="1509dtv.cl" group-title="ENTRETENIMIENTO",Cinemax SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlaNIM3.png" tvg-id="1509dtv.cl" group-title="ENTRETENIMIENTO",Cinemax SD
 http://190.217.66.92:8000/play/a0fb/index.m3u8
-#EXTINF:-1 group-title="MUSICA",Claro Musica Lado B (Sin Limites)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0lqNDS1.png" group-title="MUSICA",Claro Musica Lado B (Sin Limites)
 http://190.60.40.37:8001/play/a0dj
-#EXTINF:-1 tvg-id="133dtv.co" group-title="NACIONALES",City TV SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaR6n9k.png" tvg-id="133dtv.co" group-title="NACIONALES",City TV SD
 http://190.217.66.92:8000/play/a0em/index.m3u8
-#EXTINF:-1 tvg-id="215dtv.cl" group-title="ENTRETENIMIENTO",Comedy Central
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oATjcxs.png" tvg-id="215dtv.cl" group-title="ENTRETENIMIENTO",Comedy Central
 http://38.7.204.233:8011/play/a2l9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bGmSyxG.png" tvg-id="BestofDanceTV.ee" group-title="MUSICA",Best of Dance TV
@@ -116,54 +118,54 @@ https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pLbSp22.png" tvg-id="DanceTVTechnoWarehouse.ee" group-title="MUSICA",DanceTV Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 
-#EXTINF:-1 tvg-id="1513dtv.cl" group-title="ENTRETENIMIENTO",DHE SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qebHVTj.png" tvg-id="1513dtv.cl" group-title="ENTRETENIMIENTO",DHE SD
 http://181.119.86.1:8000/play/a03m
-#EXTINF:-1 tvg-id="1513dtv.cl" group-title="ENTRETENIMIENTO",DHE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qebHVTj.png" tvg-id="1513dtv.cl" group-title="ENTRETENIMIENTO",DHE
 http://181.119.86.1:8000/play/a0ca
-#EXTINF:-1 tvg-id="de-pelicula.mx" group-title="ENTRETENIMIENTO",De Película
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NouKUid.png" tvg-id="de-pelicula.mx" group-title="ENTRETENIMIENTO",De Película
 http://45.4.169.50:8000/play/a08d
 
-#EXTINF:-1 group-title="DEPORTES",Deportes TVC HND
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ghG6c4.png" group-title="DEPORTES",Deportes TVC HND
 http://80.80.91.195:8000/play/a0dt
-#EXTINF:-1 group-title="DEPORTES",Deportes TVC HND (Op 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ghG6c4.png" group-title="DEPORTES",Deportes TVC HND (Op 2)
 http://190.61.116.155:7000/play/a09t
 
-#EXTINF:-1 tvg-id="610dtv.ar" group-title="DEPORTES",Directv Sports AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="610dtv.ar" group-title="DEPORTES",Directv Sports AR
 http://186.148.196.82:8001/play/a035
-#EXTINF:-1 tvg-id="610dtv.pe" group-title="DEPORTES",Directv Sports PE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="610dtv.pe" group-title="DEPORTES",Directv Sports PE
 http://179.63.6.17:9000/play/a08e
-#EXTINF:-1 tvg-id="611dtv.pe" group-title="DEPORTES",Directv Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" tvg-id="611dtv.pe" group-title="DEPORTES",Directv Sports 2
 http://179.63.6.17:9000/play/a08c
 
-#EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmuC1ic.png" tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel SD
 http://190.217.66.92:8000/play/a0dc/index.m3u8
-#EXTINF:-1 tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmuC1ic.png" tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel
 http://181.119.86.1:8000/play/a0bp
-#EXTINF:-1 tvg-id="229dtv.cl" group-title="DOCUMENTALES",Discovery H&H
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdo8NPe.png" tvg-id="229dtv.cl" group-title="DOCUMENTALES",Discovery H&H
 http://181.119.86.1:8000/play/a0c5
-#EXTINF:-1 tvg-id="330dtv.cl" group-title="INFANTILES",Discovery Kids SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1oQ0KO.png" tvg-id="330dtv.cl" group-title="INFANTILES",Discovery Kids SD
 http://190.217.66.92:8000/play/a0fx/index.m3u8
-#EXTINF:-1 tvg-id="330dtv.cl" group-title="INFANTILES",Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1oQ0KO.png" tvg-id="330dtv.cl" group-title="INFANTILES",Discovery Kids
 http://181.119.86.1:8000/play/a01b
-#EXTINF:-1 tvg-id="discovery-science.cl" group-title="DOCUMENTALES",Discovery Science SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUgo8x9.png" tvg-id="discovery-science.cl" group-title="DOCUMENTALES",Discovery Science SD
 http://45.4.169.50:8000/play/a08b
-#EXTINF:-1 tvg-id="1731dtv.cl" group-title="DOCUMENTALES",Discovery Theater
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLkMOP4.png" tvg-id="1731dtv.cl" group-title="DOCUMENTALES",Discovery Theater
 http://181.119.86.1:8000/play/a0c6
-#EXTINF:-1 tvg-id="736dtv.cl" group-title="DOCUMENTALES",Discovery Turbo SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q69jN4A.png" tvg-id="736dtv.cl" group-title="DOCUMENTALES",Discovery Turbo SD
 http://190.217.66.92:8000/play/a0fo/index.m3u8
-#EXTINF:-1 tvg-id="1738dtv.cl" group-title="DOCUMENTALES",Discovery World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u409wQV.png" tvg-id="1738dtv.cl" group-title="DOCUMENTALES",Discovery World
 http://45.4.169.50:8000/play/a06p
-#EXTINF:-1 tvg-id="312dtv.cl" group-title="INFANTILES",Disney Channel SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rsYrhdv.png" tvg-id="312dtv.cl" group-title="INFANTILES",Disney Channel SD
 http://190.217.66.92:8000/play/a0db/index.m3u8
-#EXTINF:-1 tvg-id="312dtv.cl" group-title="INFANTILES",Disney Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rsYrhdv.png" tvg-id="312dtv.cl" group-title="INFANTILES",Disney Channel
 http://181.119.86.1:8000/play/a031
-#EXTINF:-1 tvg-id="315dtv.cl" group-title="INFANTILES",Disney Junior SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcRuED5.png" tvg-id="315dtv.cl" group-title="INFANTILES",Disney Junior SD
 http://190.217.66.92:8000/play/a0ga/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F9wrdUm.png" tvg-id="629" group-title="ENTRETENIMIENTO",Distrito Comedia SD
 http://45.4.169.50:8000/play/a08c
-#EXTINF:-1 tvg-id="222dtv.cl" group-title="ENTRETENIMIENTO",E! Entertainment TV SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EiLWRPM.png" tvg-id="222dtv.cl" group-title="ENTRETENIMIENTO",E! Entertainment TV SD
 http://190.217.66.92:8000/play/a0df/index.m3u8
-#EXTINF:-1 tvg-id="222dtv.cl" group-title="ENTRETENIMIENTO",E! Entertainment TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tImTAqp.png" tvg-id="222dtv.cl" group-title="ENTRETENIMIENTO",E! Entertainment TV
 http://45.171.180.66:8000/play/a04x
 
 #EXTINF:-1 tvg-id="1621dtv.co" group-title="DEPORTES",ESPN CO
