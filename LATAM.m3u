@@ -259,7 +259,7 @@ http://45.169.163.106:8000/play/a02k
 http://80.80.91.195:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="541dtv.cl" group-title="ENTRETENIMIENTO",HBO Pop
 http://45.169.163.106:8000/play/a01c
-#EXTINF:-1 tvg-id="541dtv.cl" group-title="ENTRETENIMIENTO",HBO Mundi SD
+#EXTINF:-1 tvg-id="540dtv.cl" group-title="ENTRETENIMIENTO",HBO Mundi SD
 http://181.78.6.2:9080/play/a06n
 
 #EXTINF:-1 tvg-id="272dtv.cl" group-title="MUSICA",HTV SD
