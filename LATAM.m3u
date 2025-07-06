@@ -421,6 +421,9 @@ http://84.22.55.2:8010/play/s281
 #EXTINF:-1 tvg-id="629dtv.cl" group-title="DEPORTES",TyC Sports SD
 http://190.60.40.37:8001/play/a0cs
 
+#EXTINF:-1 group-title="DEPORTES",TVC Deportes
+http://82.152.133.28:8000/play/a0mj
+
 #EXTINF:-1 tvg-id="218dtv.co" group-title="ENTRETENIMIENTO",Universal Channel
 http://45.171.180.66:8000/play/a02u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MH4Y9vQ.png" tvg-id="1572dtv.cl" group-title="ENTRETENIMIENTO",Universal Cinema Este
