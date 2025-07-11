@@ -33,9 +33,9 @@ http://181.78.106.127:9000/play/ca039
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNqtdpk.png" tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias SD
 http://45.171.180.66:8000/play/a03o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNqtdpk.png" tvg-id="147dtv.co" group-title="NOTICIAS",CableNoticias
-./play/a08m/index.m3u8
+http://152.200.150.150:8000/play/a0hr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d7OpqHC.png" tvg-id="chv.cl" group-title="NACIONALES",CHV
-./play/a066/index.m3u8
+http://45.181.123.194:8000/play/a0lz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPmeRlY.png" tvg-id="704dtv.cl" group-title="NOTICIAS",CNN Español SD
 http://181.119.86.1:8000/play/a026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFIiN0b.png" tvg-id="706dtv.cl" group-title="NOTICIAS",CNN Internacional SD
@@ -80,8 +80,12 @@ http://190.217.66.92:8000/play/a0e7
 http://45.171.180.66:8000/play/a00h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 2)
 http://38.252.213.10:9000/play/a00h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 3)
+http://190.0.247.38:8000/play/a009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOZfjQo.png" group-title="NACIONALES",Caracol HD2
 http://45.171.180.66:8000/play/a00i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOZfjQo.png" group-title="NACIONALES",Caracol HD2 (Op 2)
+http://190.0.247.38:8000/play/a04c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWvMZRj.png" tvg-id="304dtv.cl" group-title="INFANTILES",Cartoon Network SD
 http://190.217.66.92:8000/play/a0d3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWy2ChN.png" tvg-id="304dtv.cl" group-title="INFANTILES",Cartoon Network
@@ -141,6 +145,8 @@ http://179.63.6.17:9000/play/a08c
 http://190.217.66.92:8000/play/a0dc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmuC1ic.png" tvg-id="732dtv.cl" group-title="DOCUMENTALES",Discovery Channel
 http://181.119.86.1:8000/play/a0bp
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdo8NPe.png" tvg-id="229dtv.cl" group-title="DOCUMENTALES",Discovery H&H SD
+http://190.0.247.38:8000/play/a00n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tdo8NPe.png" tvg-id="229dtv.cl" group-title="DOCUMENTALES",Discovery H&H
 http://181.119.86.1:8000/play/a0c5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1oQ0KO.png" tvg-id="330dtv.cl" group-title="INFANTILES",Discovery Kids SD
@@ -149,10 +155,14 @@ http://190.217.66.92:8000/play/a0fx/index.m3u8
 http://181.119.86.1:8000/play/a01b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUgo8x9.png" tvg-id="discovery-science.cl" group-title="DOCUMENTALES",Discovery Science SD
 http://45.4.169.50:8000/play/a08b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUgo8x9.png" tvg-id="discovery-science.cl" group-title="DOCUMENTALES",Discovery Science
+http://190.0.247.38:8000/play/a00s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLkMOP4.png" tvg-id="1731dtv.cl" group-title="DOCUMENTALES",Discovery Theater
 http://181.119.86.1:8000/play/a0c6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q69jN4A.png" tvg-id="736dtv.cl" group-title="DOCUMENTALES",Discovery Turbo SD
 http://190.217.66.92:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q69jN4A.png" tvg-id="736dtv.cl" group-title="DOCUMENTALES",Discovery Turbo
+http://190.0.247.38:8000/play/a00o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u409wQV.png" tvg-id="1738dtv.cl" group-title="DOCUMENTALES",Discovery World
 http://45.4.169.50:8000/play/a06p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rsYrhdv.png" tvg-id="312dtv.cl" group-title="INFANTILES",Disney Channel SD
@@ -163,6 +173,8 @@ http://181.119.86.1:8000/play/a031
 http://190.217.66.92:8000/play/a0ga/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F9wrdUm.png" tvg-id="629" group-title="ENTRETENIMIENTO",Distrito Comedia SD
 http://45.4.169.50:8000/play/a08c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F9wrdUm.png" tvg-id="629" group-title="ENTRETENIMIENTO",Distrito Comedia
+http://190.0.247.38:8000/play/a01n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EiLWRPM.png" tvg-id="222dtv.cl" group-title="ENTRETENIMIENTO",E! Entertainment TV SD
 http://190.217.66.92:8000/play/a0df/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tImTAqp.png" tvg-id="222dtv.cl" group-title="ENTRETENIMIENTO",E! Entertainment TV
@@ -278,6 +290,8 @@ http://181.78.14.26:8000/play/a07h
 http://45.4.169.50:8000/play/a012
 #EXTINF:-1 tvg-id="226dtv.cl" group-title="NOVELAS",Las Estrellas SD
 http://190.217.66.92:8000/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-id="226dtv.cl" group-title="NOVELAS",Las Estrellas
+http://190.0.247.38:8000/play/a01q
 #EXTINF:-1 tvg-id="2mvstr.pe" group-title="NACIONALES",Latina
 http://181.119.86.1:8000/play/a02c
 #EXTINF:-1 tvg-id="mega.cl" group-title="NACIONALES",MEGA
@@ -342,10 +356,14 @@ http://181.119.86.1:8000/play/a00q
 http://190.217.66.92:8000/play/a0e8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PE2UcNq.png" tvg-id="130dtv.co" group-title="NACIONALES",RCN
 http://45.171.180.66:8000/play/a00l
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PE2UcNq.png" tvg-id="130dtv.co" group-title="NACIONALES",RCN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE2UcNq.png" tvg-id="130dtv.co" group-title="NACIONALES",RCN (Op 2)
 http://38.252.213.10:9000/play/a01q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE2UcNq.png" tvg-id="130dtv.co" group-title="NACIONALES",RCN (Op 3)
+http://190.0.247.38:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9i2bR0.png" group-title="NACIONALES",RCN HD2
 http://45.171.180.66:8000/play/a00m
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9i2bR0.png" group-title="NACIONALES",RCN HD2 (Op 2)
+http://190.0.247.38:8000/play/a065
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9o7STe.png" tvg-id="977mvstr" group-title="NOVELAS",RCN Novelas SD
 http://80.80.91.195:8000/play/a049
 #EXTINF:-1 tvg-id="135dtv.co" group-title="NACIONALES",RCN Internacional
@@ -376,6 +394,8 @@ http://45.190.187.183:8080/play/a1fs
 http://45.171.180.66:8000/play/a02t
 #EXTINF:-1 tvg-id="740dtv.cl" group-title="DOCUMENTALES",TLC SD
 http://45.4.169.50:8000/play/a0ac
+#EXTINF:-1 tvg-id="740dtv.cl" group-title="DOCUMENTALES",TLC
+http://190.0.247.38:8000/play/a00v
 #EXTINF:-1 tvg-id="502dtv.cl" group-title="ENTRETENIMIENTO",TNT
 http://45.171.180.66:8000/play/a04h
 #EXTINF:-1 tvg-id="864mvstr.co" group-title="NOVELAS",TNT Novelas SD
@@ -391,15 +411,23 @@ http://45.4.169.50:8000/play/a01b
 
 #EXTINF:-1 tvg-id="180dtv.ec" group-title="NACIONALES",Teleamazonas EC
 http://45.224.96.65:8010/play/a005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dKbXyf2.png" group-title="MUSICA",Telehit
+http://190.0.247.38:8000/play/a021
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4toNL9g.jpeg" group-title="MUSICA",Telehit Música
+http://190.0.247.38:8000/play/a022
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lEYSSmX.png" tvg-id="140dtv.co" group-title="NACIONALES",Teleantioquia SD
 http://45.171.180.66:8000/play/a02c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lEYSSmX.png" tvg-id="140dtv.co" group-title="NACIONALES",Teleantioquia
+http://190.0.247.38:8000/play/a007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZ5SEXC.png" group-title="NACIONALES",Telecafe SD
 http://45.171.180.66:8000/play/a04c
 #EXTINF:-1 tvg-id="142dtv.co" group-title="NACIONALES",Telecaribe SD
 http://45.171.180.66:8000/play/a048
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3PYPE93.png" group-title="NACIONALES",Teleislas SD
 http://45.171.180.66:8000/play/a04f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3PYPE93.png" group-title="NACIONALES",Teleislas SD
+http://190.0.247.38:8000/play/a02f
 #EXTINF:-1 tvg-id="141dtv.co" group-title="NACIONALES",Telepacífico SD
 http://45.171.180.66:8000/play/a049
 #EXTINF:-1 tvg-id="227dtv.cl" group-title="NOVELAS",Telenovelas SD
@@ -451,6 +479,8 @@ http://45.171.180.66:8000/play/a02v
 http://190.60.47.92:9000/play/a0ct
 #EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://i.imgur.com/adgKB9J.png" group-title="DEPORTES",Win Sports
 http://45.171.180.66:8000/play/a039
+#EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://i.imgur.com/adgKB9J.png" group-title="DEPORTES",Win Sports (Op 2)
+http://190.0.247.38:8000/play/a06a
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol SD
 http://190.60.48.85:9080/play/a1e8
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol
