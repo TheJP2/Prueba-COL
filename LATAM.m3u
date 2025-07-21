@@ -489,6 +489,8 @@ http://45.171.180.66:8000/play/a039
 http://190.0.247.38:8000/play/a06a
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol SD
 http://190.60.48.85:9080/play/a1e8
+#EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol SD (Op 2)
+http://181.39.27.141:8000/play/a0ew
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol
 http://181.119.86.1:8000/play/a0ce
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol (Op 2)
