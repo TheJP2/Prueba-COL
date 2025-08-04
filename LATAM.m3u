@@ -393,6 +393,9 @@ http://45.171.180.66:8000/play/a04q
 #EXTINF:-1 tvg-id="508dtv.cl" group-title="ENTRETENIMIENTO",Studio Universal
 http://45.171.180.66:8000/play/a02s
 
+#EXTINF:-1 group-title="DEPORTES",Sport TV1 PT
+http://102.132.19.90:8001/play/a03t
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/glBTyJy.png" group-title="DEPORTES",TD+ HD CR
 http://45.190.187.183:8080/play/a1fs
 
