@@ -84,6 +84,8 @@ http://45.171.180.66:8000/play/a00h
 http://38.252.213.10:9000/play/a00h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 3)
 http://190.0.247.38:8000/play/a009
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 4)
+http://192.141.99.87:8000/play/a0bd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOZfjQo.png" group-title="NACIONALES",Caracol HD2
 http://45.171.180.66:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOZfjQo.png" group-title="NACIONALES",Caracol HD2 (Op 2)
