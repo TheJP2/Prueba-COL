@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 #EXTINF:-1 tvg-id="1156dtv.cl" group-title="-",13 C
 http://179.51.136.23:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="720dtv.cl" group-title="-",26TV
