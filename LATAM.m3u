@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9R8cemb.png" tvg-id="a-e-mundo.mx" group-title="ENTRETENIMIENTO",A&E SD
 http://190.217.66.92:8000/play/a0dm/index.m3u8
