@@ -79,9 +79,9 @@ http://190.217.66.92:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hOdLKod.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol SD
 http://190.217.66.92:8000/play/a0e7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol
-http://45.171.180.66:8000/play/a00h
+http://181.119.86.1:8000/play/a0ce
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 2)
-http://38.252.213.10:9000/play/a00h
+http://190.242.61.123:9999/play/a0kn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 3)
 http://190.0.247.38:8000/play/a009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qPkueY.png" tvg-id="132dtv.co" group-title="NACIONALES",Caracol (Op 4)
@@ -497,7 +497,7 @@ http://190.60.48.85:9080/play/a1e8
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol SD (Op 2)
 http://181.39.27.141:8000/play/a0ew
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol
-http://181.119.86.1:8000/play/a0ce
+http://190.233.77.248:8001/play/a0ok
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol (Op 2)
 http://181.78.4.250:8098/play/a08r
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/1280px-Win%2B_F%C3%BAtbol_logo.svg.png" group-title="DEPORTES",Win+ Fútbol (Op 3)
