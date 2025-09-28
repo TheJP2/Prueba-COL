@@ -379,6 +379,10 @@ http://179.51.136.23:8000/play/a02o/index.m3u8
 http://179.51.136.23:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports AR
 http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 group-title="-",TNT Sports AR (Op 2)
+http://181.13.252.102:8000/play/a0bc
+
 #EXTINF:-1 group-title="-",TV Ciudad
 http://179.51.136.23:8000/play/a08p/index.m3u8
 #EXTINF:-1 group-title="-",TV Ciudad HD
