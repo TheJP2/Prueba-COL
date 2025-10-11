@@ -199,7 +199,7 @@ http://190.217.66.92:8000/play/a0gd
 #EXTINF:-1 tvg-id="622dtv.ar" group-title="DEPORTES",ESPN 2 SD
 http://190.217.66.92:8000/play/a0dh
 #EXTINF:-1 tvg-id="431dtv.cl" group-title="DEPORTES",ESPN 2
-http://181.119.86.1:8000/play/a016
+http://190.60.34.227:6480/play/a086
 #EXTINF:-1 tvg-id="622dtv.ar" group-title="DEPORTES",ESPN 2 AR
 http://190.0.247.38:8000/play/a010
 #EXTINF:-1 tvg-id="1075dtv.cl" group-title="DEPORTES",ESPN 3
