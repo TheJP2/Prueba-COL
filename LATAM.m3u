@@ -387,7 +387,7 @@ http://45.171.180.66:8000/play/a046
 #EXTINF:-1 tvg-id="137dtv.co" group-title="NACIONALES",Señal Colombia
 http://45.171.180.66:8000/play/a00t
 #EXTINF:1 tvg-logo="https://i.imgur.com/mstDDHe.png" group-title="DEPORTES", SKY LaLiga MX
-http://200.115.96.66:4000/play/a029
+http://190.83.9.222:8000/play/ca090
 #EXTINF:-1 tvg-id="204dtv.ar" group-title="ENTRETENIMIENTO",Star Channel
 http://181.119.86.1:8000/play/a03h
 #EXTINF:-1 tvg-id="208dtv.cl" group-title="ENTRETENIMIENTO",Sony Channel
