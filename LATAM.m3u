@@ -16,8 +16,8 @@ http://190.217.66.92:8000/play/a0fd/index.m3u8
 http://45.171.180.66:8000/play/a03v
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9iEqA2.png" tvg-id="220dtv.cl" group-title="ENTRETENIMIENTO",Adult Swim SD
 http://45.171.180.66:8000/play/a03e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XZgKPEi.png" tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE
-http://181.119.86.1:8000/play/a04w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZgKPEi.png" tvg-id="4mvstr.pe" group-title="NACIONALES",AmericaTV PE
+http://186.148.184.65:8000/play/a0bq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XZgKPEi.png" tvg-id="4mvstr.pe" group-title="NACIONALES",America TV PE (Op 2)
 http://190.61.42.218:9000/play/a05p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bu9peCm.png" tvg-id="734dtv.cl" group-title="DOCUMENTALES",Animal Planet SD
