@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1,Cap 131
+#EXTINF:-1 group-title="DESAFIO SIGLO XXI",Capitulo 131
 https://mdstrm.com/video/698693923c84b1e5194fa580.m3u8
-#EXTINF:-1,MED v PER
+#EXTINF:-1 group-title="DESAFIO SIGLO XXI",Capitulo 137 - Final (1ra Parte)
+https://mdstrm.com/video/6993c6f94d13230e8ab80500.m3u8
+#EXTINF:-1 group-title="DESAFIO SIGLO XXI",Capitulo 138 - Final (2da Parte)
+https://mdstrm.com/video/69951688640529a39a7a5a1d.m3u8
+#EXTINF:-1 group-title="LIGA COL 2026-1",MED v PER
 https://archive.org/download/med-v-per-2026-1/MEDvPER_2026-1.ts
-#EXTINF:-1,CALI v NAC (1T)
+#EXTINF:-1 group-title="LIGA COL 2026-1",CALI v NAC (1T)
 https://archive.org/download/cali-v-nac-2t/CALIvNAC.ts
-#EXTINF:-1,CALI v NAC (2T)
+#EXTINF:-1 group-title="LIGA COL 2026-1",CALI v NAC (2T)
 https://archive.org/download/cali-v-nac-2t/CALIvNAC_2T.ts
