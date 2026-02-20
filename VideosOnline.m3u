@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Cap 131
+https://mdstrm.com/video/698693923c84b1e5194fa580.m3u8
+#EXTINF:-1,MED v PER
+https://archive.org/download/med-v-per-2026-1/MEDvPER_2026-1.ts
+#EXTINF:-1,CALI v NAC (1T)
+https://archive.org/download/cali-v-nac-2t/CALIvNAC.ts
+#EXTINF:-1,CALI v NAC (2T)
+https://archive.org/download/cali-v-nac-2t/CALIvNAC_2T.ts
