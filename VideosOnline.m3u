@@ -11,3 +11,7 @@ https://archive.org/download/med-v-per-2026-1/MEDvPER_2026-1.ts
 https://archive.org/download/cali-v-nac-2t/CALIvNAC.ts
 #EXTINF:-1 group-title="LIGA COL 2026-1",CALI v NAC (2T)
 https://archive.org/download/cali-v-nac-2t/CALIvNAC_2T.ts
+#EXTINF:-1 group-title="LIGA COL 2026-1",PER v PAS
+https://archive.org/download/per-v-pas/PERvPAS.mkv
+#EXTINF:-1 group-title="LIGA COL 2026-1",BUC v CALI
+https://archive.org/download/buc-v-cali/BUCvCALI.ts
