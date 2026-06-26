@@ -1,54 +1,54 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | P+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | P+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | Prime
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | Prime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_2_Logo.png?raw=true",DSports 2 | P+
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_2_Logo.png?raw=true",DSports 2 | P+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Plus_Logo.png?raw=true",DSports + | P+
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Plus_Logo.png?raw=true",DSports + | P+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/Telemundo_Logo.png?raw=true",Telemundo CA | Geo: USA
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.Pacific.us2" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/Telemundo_Logo.png?raw=true",Telemundo CA | Geo: USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/Telemundo_Logo.png?raw=true",Telemundo CHI | Geo: USA
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/Telemundo_Logo.png?raw=true",Telemundo CHI | Geo: USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/Universo_Logo.png?raw=true",Universo East | Geo: USA
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/Universo_Logo.png?raw=true",Universo East | Geo: USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/Universo_Logo.png?raw=true",Universo West | Geo: USA
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/Universo_Logo.png?raw=true",Universo West | Geo: USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
