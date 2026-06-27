@@ -56,5 +56,5 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
-#EXTINF:-1,Fussball.TV 2 UHD
-http://103.176.90.24:80/play/live.php?mac=00:1A:79:73:22:F8&stream=2094024&extension=ts&play_token=Uz3p3PwNcC
+#EXTINF:-1,MW Fussball.TV 2 UHD
+http://103.176.90.24:80/play/live.php?mac=00:1A:79:73:22:F8&stream=2095889&extension=ts&play_token=LY6mctSPWd
