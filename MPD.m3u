@@ -1,27 +1,27 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+#EXTM3U x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
 
-#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | P+
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | P+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | Prime
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | Prime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_2_Logo.png?raw=true",DSports 2 | P+
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_2_Logo.png?raw=true",DSports 2 | P+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Plus_Logo.png?raw=true",DSports + | P+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Plus_Logo.png?raw=true",DSports + | P+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
