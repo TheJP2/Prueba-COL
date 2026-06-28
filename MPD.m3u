@@ -58,3 +58,10 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 
 #EXTINF:-1, DAZN F1 (Clasificación - GP Austria)
 http://103.176.90.24:80/play/live.php?mac=00:1A:79:73:22:F8&stream=2040708&extension=ts&play_token=YRePUlHju9
+
+#EXTINF:-1,Sky Sports F1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aa58ee631635ae0a524ec754417e40b:c802e3077a3ee0c44b86eade5541a468
+https://at-live-4.tentcdn.eu/bpk-tv/Sky_Sport_F1_HD/default/index.mpd
