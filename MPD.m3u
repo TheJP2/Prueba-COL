@@ -7,6 +7,9 @@
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports AR | Astra
+http://190.7.19.197:232/play/a09i
+
 #EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | Prime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -20,6 +23,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
+
+#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_2_Logo.png?raw=true",DSports 2 | Astra
+http://190.7.19.197:232/play/a09h
 
 #EXTINF:-1 tvg-id="DSPORTS.+(DTS+).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Plus_Logo.png?raw=true",DSports + | P+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -55,13 +61,3 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
-
-#EXTINF:-1, DAZN F1 (Clasificación - GP Austria)
-http://103.176.90.24:80/play/live.php?mac=00:1A:79:73:22:F8&stream=2040708&extension=ts&play_token=YRePUlHju9
-
-#EXTINF:-1,Sky Sports F1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8aa58ee631635ae0a524ec754417e40b:c802e3077a3ee0c44b86eade5541a468
-https://at-live-4.tentcdn.eu/bpk-tv/Sky_Sport_F1_HD/default/index.mpd
