@@ -10,6 +10,9 @@ http://191.97.63.231:2053/play/a198
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports PE | Astra
+http://181.225.73.159:8000/play/a0bx
+
 #EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports AR | Astra
 http://190.7.19.197:232/play/a09i
 
