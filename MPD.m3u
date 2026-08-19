@@ -98,7 +98,7 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4a
 #KODIPROP:inputstream.adaptive.license_key=55b8f0b9ea3b5cd21cd1859cc82b16f3:d3b260e8628214b49394801d75c88e8e
 https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
 
-#EXTINF:-1 group-title="tv3",TV3 Cat
+#EXTINF:-1,TV3 Cat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0da6e721f05342e8808f69f1a695d425:438dded7848deef8586360b1deaf0a77
