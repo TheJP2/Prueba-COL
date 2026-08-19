@@ -1,7 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
-
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/América_TV_Logo.png?raw=true",America TV PE | Astra
-http://191.97.63.231:2053/play/a198
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
 
 #EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/DSports_Logo.png?raw=true",DSports | P+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -98,7 +95,7 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4a
 #KODIPROP:inputstream.adaptive.license_key=55b8f0b9ea3b5cd21cd1859cc82b16f3:d3b260e8628214b49394801d75c88e8e
 https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
 
-#EXTINF:-1,TV3 Cat
+#EXTINF:-1 tvg-id="TV3.es" tvg-logo="https://github.com/TheJP2/Prueba-COL/blob/main/Logos_Channels/TV3_Logo.png?raw=true",TV3 Cat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0da6e721f05342e8808f69f1a695d425:438dded7848deef8586360b1deaf0a77
