@@ -101,5 +101,8 @@ https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=0da6e721f05342e8808f69f1a695d425:438dded7848deef8586360b1deaf0a77
 https://cache07.zapitv.com/live/eds_c2/tv3_hd/dash_live_ez/tv3_hd.mpd
 
-#EXTINF:-1,DAZN F1 ES
-http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
+#EXTINF:-1 group-title="Amazon",itv 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
