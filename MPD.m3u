@@ -112,3 +112,9 @@ http://45.172.218.130:8000/play/a17h
 
 #EXTINF:-1,TyC Sports AR
 http://138.121.113.175:8000/play/a05i
+
+#EXTINF:-1,F1 Apple TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e1bfce88fb089ef6f1fbf99af7015c6:5e241218e58a0b8238005193f5bea7fc
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zp4xsuzyqi/out/v1/be8a527ca20244fe87668c93e940a16d/cenc.mpd
